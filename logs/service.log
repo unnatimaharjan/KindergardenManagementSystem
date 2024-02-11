@@ -1,0 +1,67 @@
+2024-02-11 11:33:54 +05:45| SUCCESS | __main__:11 | GET / {'status': 'OK'}
+2024-02-11 12:01:52 +05:45| SUCCESS | __main__:35 | Connected to kms.db
+2024-02-11 12:13:30 +05:45| SUCCESS | __main__:35 | Connected to kms.db
+2024-02-11 12:13:39 +05:45| SUCCESS | __main__:14 | GET / {'status': 'OK'}
+2024-02-11 12:17:32 +05:45| SUCCESS | __main__:14 | GET / {'status': 'OK'}
+2024-02-11 12:17:39 +05:45| SUCCESS | __main__:14 | GET / {'status': 'OK'}
+2024-02-11 12:17:45 +05:45| SUCCESS | __main__:14 | GET / {'status': 'OK'}
+2024-02-11 12:17:48 +05:45| SUCCESS | __main__:14 | GET / {'status': 'OK'}
+2024-02-11 12:17:51 +05:45| SUCCESS | __main__:14 | GET / {'status': 'OK'}
+2024-02-11 12:17:54 +05:45| SUCCESS | __main__:14 | GET / {'status': 'OK'}
+2024-02-11 12:17:59 +05:45| SUCCESS | __main__:14 | GET / {'status': 'OK'}
+2024-02-11 12:18:38 +05:45| SUCCESS | routes.auth:21 | username='unnati' password='unnati@123'
+2024-02-11 12:19:27 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 12:19:53 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 12:20:38 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 12:20:39 +05:45| INFO | routes.auth:22 | username='unnati' password='unnati@123'
+2024-02-11 12:20:42 +05:45| INFO | routes.auth:22 | username='unnati' password='unnati@123'
+2024-02-11 12:21:18 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 12:21:19 +05:45| INFO | routes.auth:22 | username='unnati' password='unnati@123'
+2024-02-11 12:21:19 +05:45| SUCCESS | routes.auth:24 | status=<sqlite3.Cursor object at 0x0000022A5E4B0640>
+2024-02-11 12:21:21 +05:45| INFO | routes.auth:22 | username='unnati' password='unnati@123'
+2024-02-11 12:21:21 +05:45| SUCCESS | routes.auth:24 | status=<sqlite3.Cursor object at 0x0000022A5E4B0640>
+2024-02-11 12:22:49 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 12:22:49 +05:45| INFO | routes.auth:22 | username='unnati' password='unnati@123'
+2024-02-11 12:22:51 +05:45| INFO | routes.auth:22 | username='unnati' password='unnati@123'
+2024-02-11 12:23:13 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 12:23:23 +05:45| INFO | routes.auth:22 | username='unnati' password='unnati@123'
+2024-02-11 12:25:40 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 12:26:53 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 12:26:57 +05:45| INFO | routes.auth:22 | username='unnati' password='unnati@123'
+2024-02-11 12:27:31 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 12:27:35 +05:45| INFO | routes.auth:22 | username='unnati' password='unnati@123'
+2024-02-11 12:29:49 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 12:32:40 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 12:35:36 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 12:54:37 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 12:55:46 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 12:56:31 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 12:57:43 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:00:26 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:07:29 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:08:19 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:08:48 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:08:54 +05:45| SUCCESS | routes.auth:48 | {'success': 'log in successful', 'access_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImJpc2h3ZXNoIiwiZXhwaXJ5IjoxNzA3NjM5ODM0LjcwMDU0NH0.8HUbj3WjbFlfhZL9X6dMQZjwhwTNB72a-prx9zoZ8iQ'}
+2024-02-11 13:10:10 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:10:12 +05:45| SUCCESS | routes.auth:48 | bishwesh loggen in successfully
+2024-02-11 13:10:14 +05:45| SUCCESS | routes.auth:48 | bishwesh loggen in successfully
+2024-02-11 13:10:14 +05:45| SUCCESS | routes.auth:48 | bishwesh loggen in successfully
+2024-02-11 13:10:15 +05:45| SUCCESS | routes.auth:48 | bishwesh loggen in successfully
+2024-02-11 13:10:16 +05:45| SUCCESS | routes.auth:48 | bishwesh loggen in successfully
+2024-02-11 13:21:24 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:21:53 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:22:14 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:22:33 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:24:29 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:24:34 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:35:39 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:36:23 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:37:31 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:37:58 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:38:19 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:39:16 +05:45| SUCCESS | routes.auth:40 | bishwesh loggen in successfully
+2024-02-11 13:40:33 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:41:07 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:41:31 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:42:08 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
+2024-02-11 13:42:11 +05:45| SUCCESS | utils.sqlite_utils:36 | Connected to kms.db
