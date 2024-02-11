@@ -1,0 +1,6 @@
+# dirs
+**/__pycache__
+.idea/
+
+# files
+.git
