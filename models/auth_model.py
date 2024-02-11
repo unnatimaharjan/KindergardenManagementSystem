@@ -1,9 +1,10 @@
 from pydantic import BaseModel
 
 
-class Admin(BaseModel):
+class Employee(BaseModel):
     username: str
     password: str
+    secret: str = None
 
 
 class TokenAuth(BaseModel):

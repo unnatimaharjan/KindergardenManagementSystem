@@ -6,6 +6,8 @@ class Settings:
     API_PORT = int(config("API_PORT", default="8080"))
     SECRET = config("SECRET")
     ALGORITHM = config("ALGORITHM", default="HS")
+    ADMIN_SECRET = config("ADMIN_SECRET")
+    REFRESH_TOKEN_EXPIRY = 86400
 
 
 settings = Settings()

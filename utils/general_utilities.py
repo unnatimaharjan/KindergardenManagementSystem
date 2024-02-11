@@ -1,3 +1,5 @@
+import time
+
 from models.request_models import BadRequestModel
 
 
@@ -15,3 +17,7 @@ def validate_token_request(request):
     if not request.token:
         return False, BadRequestModel(message="bad request")
     return True, None
+
+
+def current_time_in_secs():
+    return int(time.time())
