@@ -1,0 +1,2269 @@
+2024-02-17 13:38:03 +05:45| INFO | kmsd.views:7 | GET: /home
+2024-02-17 13:39:46 +05:45| INFO | kmsd.views:8 | GET: /home
+2024-02-17 13:40:06 +05:45| INFO | kmsd.views:8 | GET: /home
+2024-02-17 13:40:12 +05:45| INFO | kmsd.views:8 | GET: /home
+2024-02-17 13:40:22 +05:45| INFO | kmsd.views:8 | GET: /home
+2024-02-17 13:41:21 +05:45| INFO | kmsd.views:9 | GET: /home
+2024-02-17 13:41:23 +05:45| INFO | kmsd.views:9 | GET: /home
+2024-02-17 13:41:35 +05:45| INFO | kmsd.views:9 | GET: /home
+2024-02-17 13:43:17 +05:45| INFO | kmsd.views:9 | GET: /home
+2024-02-17 13:43:38 +05:45| INFO | kmsd.views:9 | GET: /home
+2024-02-17 13:43:51 +05:45| INFO | kmsd.views:9 | GET: /home
+2024-02-17 13:44:32 +05:45| INFO | kmsd.views:9 | GET: /home
+2024-02-17 13:47:07 +05:45| INFO | kmsd.views:9 | GET: /home
+2024-02-17 13:47:07 +05:45| INFO | kmsd.views:9 | GET: /home
+2024-02-17 13:47:08 +05:45| INFO | kmsd.views:9 | GET: /home
+2024-02-17 13:47:08 +05:45| INFO | kmsd.views:9 | GET: /home
+2024-02-17 13:47:11 +05:45| INFO | kmsd.views:9 | GET: /home
+2024-02-17 13:47:11 +05:45| INFO | kmsd.views:9 | GET: /home
+2024-02-17 13:49:40 +05:45| INFO | kmsd.views:9 | GET: /home
+2024-02-17 13:49:52 +05:45| INFO | kmsd.views:9 | GET: /home
+2024-02-17 13:50:51 +05:45| INFO | kmsd.views:9 | GET: /home
+2024-02-17 14:21:42 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:43 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:44 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:44 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:45 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:46 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:46 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:47 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:47 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:47 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:48 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:48 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:49 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:49 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:50 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:50 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:51 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:51 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:52 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:52 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:52 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:53 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:53 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:54 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:54 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:55 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:55 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:56 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:56 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:57 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:57 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:57 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:58 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:58 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:59 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:21:59 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:00 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:00 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:01 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:01 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:02 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:02 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:03 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:03 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:04 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:04 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:05 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:05 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:06 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:06 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:07 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:07 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:08 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:08 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:08 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:09 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:09 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:10 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:10 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:11 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:11 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:12 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:12 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:12 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:13 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:13 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:14 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:14 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:15 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:15 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:16 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:16 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:16 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:17 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:17 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:18 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:18 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:19 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:19 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:19 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:20 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:20 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:21 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:21 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:22 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:22 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:23 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:23 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:23 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:24 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:24 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:25 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:25 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:26 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:22:26 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:24:50 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:24:51 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:24:51 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:24:52 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:24:52 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:24:53 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:24:54 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:24:54 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:24:55 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:24:55 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:24:56 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:24:56 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:24:57 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:24:57 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:24:58 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:24:58 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:24:58 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:24:59 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:24:59 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:25:00 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:25:00 +05:45| INFO | kmsd.views:20 | username='unnati' password='unnati@123'
+2024-02-17 14:29:54 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:29:55 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:29:56 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:29:56 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:29:56 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:29:56 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:29:57 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:29:57 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:29:58 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:29:58 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:29:59 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:29:59 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:29:59 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:29:59 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:00 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:00 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:01 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:01 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:01 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:01 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:02 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:02 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:02 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:02 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:03 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:03 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:03 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:03 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:04 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:04 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:04 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:04 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:05 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:05 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:05 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:05 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:06 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:06 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:06 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:06 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:07 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:07 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:07 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:07 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:08 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:08 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:08 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:08 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:09 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:09 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:09 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:09 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:10 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:10 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:10 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:11 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:11 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:11 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:12 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:12 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:12 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:12 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:13 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:13 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:13 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:13 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:14 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:14 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:14 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:14 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:15 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:15 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:15 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:15 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:16 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:16 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:16 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:17 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:17 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:17 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:18 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:18 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:18 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:18 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:19 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:19 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:19 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:19 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:20 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:20 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:20 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:20 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:21 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:21 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:21 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:21 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:22 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:22 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:22 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:22 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:23 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:23 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:23 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:23 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:24 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:24 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:24 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:24 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:25 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:25 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:25 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:26 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:26 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:26 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:27 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:27 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:27 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:27 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:28 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:28 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:28 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:28 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:29 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:29 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:29 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:29 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:30 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:30 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:31 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:31 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:31 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:31 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:32 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:32 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:32 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:32 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:33 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:33 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:33 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:33 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:34 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:34 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:34 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:35 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:35 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:35 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:36 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:36 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:36 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:36 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:37 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:37 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:37 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:37 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:38 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:38 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:38 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:39 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:39 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:39 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:39 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:40 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:40 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:40 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:41 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:41 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:41 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:41 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:42 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:42 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:42 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:42 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:43 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:43 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:43 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:44 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:44 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:44 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:44 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:45 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:45 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:45 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:46 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:46 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:46 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:46 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:47 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:47 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:47 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:47 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:48 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:48 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:48 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:49 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:49 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:30:49 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:33:11 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:33:28 +05:45| INFO | kmsd.views:16 | username='unnati' password='unnati@123'
+2024-02-17 14:43:12 +05:45| INFO | kmsd.views:31 | username='unnati' password='unnati@123'
+2024-02-17 14:48:31 +05:45| INFO | kmsd.views:31 | username='' password=''
+2024-02-17 14:48:34 +05:45| INFO | kmsd.views:31 | username='' password=''
+2024-02-17 14:50:27 +05:45| INFO | kmsd.views:28 | username='' password=''
+2024-02-17 14:50:28 +05:45| INFO | kmsd.views:28 | username='' password=''
+2024-02-17 14:50:42 +05:45| INFO | kmsd.views:28 | username='' password=''
+2024-02-17 14:50:45 +05:45| INFO | kmsd.views:28 | username='' password='asd'
+2024-02-17 14:50:49 +05:45| INFO | kmsd.views:28 | username='user' password=''
+2024-02-17 14:51:20 +05:45| INFO | kmsd.views:28 | username='user' password=''
+2024-02-17 14:51:23 +05:45| INFO | kmsd.views:28 | username='user' password=''
+2024-02-17 14:51:27 +05:45| INFO | kmsd.views:28 | username='' password='asd'
+2024-02-17 14:51:30 +05:45| INFO | kmsd.views:28 | username='dasd' password=''
+2024-02-17 14:51:31 +05:45| INFO | kmsd.views:28 | username='' password=''
+2024-02-17 14:52:33 +05:45| INFO | kmsd.views:28 | username='unnati' password='unnati@123'
+2024-02-17 15:03:33 +05:45| INFO | kmsd.views:31 | username='unnati' password='unnati@123'
+2024-02-17 15:13:54 +05:45| INFO | kmsd.views:31 | username='unnati' password='unnati@123'
+2024-02-17 15:15:26 +05:45| INFO | kmsd.views:31 | username='unnati' password='unnati@123'
+2024-02-17 15:22:12 +05:45| INFO | kmsd.views:31 | username='' password=''
+2024-02-17 15:22:38 +05:45| INFO | kmsd.views:31 | username='unnati' password=''
+2024-02-17 15:22:40 +05:45| INFO | kmsd.views:31 | username='' password='dasd'
+2024-02-17 15:22:54 +05:45| INFO | kmsd.views:31 | username='unnati' password='unnati@123'
+2024-02-17 15:50:08 +05:45| INFO | kmsd.views:51 | username='kshitiz'
+2024-02-17 16:14:34 +05:45| INFO | kmsd.views:44 | username='kshitiz'
+2024-02-17 16:15:09 +05:45| INFO | kmsd.views:44 | username='kshitiz'
+2024-02-17 16:15:38 +05:45| INFO | kmsd.views:44 | username='kshitiz'
+2024-02-17 16:20:22 +05:45| INFO | kmsd.views:44 | username='kshitiz'
+2024-02-17 16:20:56 +05:45| INFO | kmsd.views:44 | username='bishwesh'
+2024-02-17 16:22:24 +05:45| INFO | kmsd.views:44 | username='bishwesh'
+2024-02-17 16:25:01 +05:45| INFO | kmsd.views:44 | username='bishwesh'
+2024-02-17 16:25:04 +05:45| INFO | kmsd.views:44 | username='bishwesh'
+2024-02-17 16:25:15 +05:45| INFO | kmsd.views:44 | username='bishwesh'
+2024-02-17 16:26:03 +05:45| INFO | kmsd.views:44 | username='bishwesh'
+2024-02-17 16:26:31 +05:45| INFO | kmsd.views:44 | username='bishwesh'
+2024-02-17 16:27:22 +05:45| INFO | kmsd.views:44 | username='bishwesh'
+2024-02-17 16:27:47 +05:45| INFO | kmsd.views:44 | username='bishwesh'
+2024-02-17 16:27:47 +05:45| ERROR | kmsd.views:59 | UNIQUE constraint failed: auth_user.username
+Traceback (most recent call last):
+
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           │    │      │       │    └ ('pbkdf2_sha256$600000$luxnagLtriIIYTrLDUjzeJ$aGT2FhlgADmLoZ7JLSf71guHU3tLW7AYZ4S+1TGT5xE=', None, False, 'bishwesh', '', '',...
+           │    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           │    │      └ <function SQLiteCursorWrapper.execute at 0x00000219A5BEC540>
+           │    └ <django.db.backends.sqlite3.base.SQLiteCursorWrapper object at 0x00000219A6421130>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x00000219A6456150>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+                           │      └ ('pbkdf2_sha256$600000$luxnagLtriIIYTrLDUjzeJ$aGT2FhlgADmLoZ7JLSf71guHU3tLW7AYZ4S+1TGT5xE=', None, False, 'bishwesh', '', '',...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+
+sqlite3.IntegrityError: UNIQUE constraint failed: auth_user.username
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 1002, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x00000219A24C53A0>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 18356)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 1045, in _bootstrap_inner
+    self.run()
+    │    └ <function Thread.run at 0x00000219A24C56C0>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 18356)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 982, in run
+    self._target(*self._args, **self._kwargs)
+    │    │        │    │        │    └ {}
+    │    │        │    │        └ <Thread(Thread-1 (process_request_thread), started daemon 18356)>
+    │    │        │    └ (<socket.socket fd=864, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 56486)>, ('127.0.0.1', 56486))
+    │    │        └ <Thread(Thread-1 (process_request_thread), started daemon 18356)>
+    │    └ <bound method ThreadingMixIn.process_request_thread of <django.core.servers.basehttp.WSGIServer object at 0x00000219A5EAE490>>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 18356)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+    │    │              │        └ ('127.0.0.1', 56486)
+    │    │              └ <socket.socket fd=864, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 56486)>
+    │    └ <function BaseServer.finish_request at 0x00000219A4FA32E0>
+    └ <django.core.servers.basehttp.WSGIServer object at 0x00000219A5EAE490>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    │    │                   │        │               └ <django.core.servers.basehttp.WSGIServer object at 0x00000219A5EAE490>
+    │    │                   │        └ ('127.0.0.1', 56486)
+    │    │                   └ <socket.socket fd=864, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 56486)>
+    │    └ <class 'django.core.servers.basehttp.WSGIRequestHandler'>
+    └ <django.core.servers.basehttp.WSGIServer object at 0x00000219A5EAE490>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 755, in __init__
+    self.handle()
+    │    └ <function WSGIRequestHandler.handle at 0x00000219A5CFF060>
+    └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x00000219A643F510>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\servers\basehttp.py", line 227, in handle
+    self.handle_one_request()
+    │    └ <function WSGIRequestHandler.handle_one_request at 0x00000219A5CFF100>
+    └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x00000219A643F510>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\servers\basehttp.py", line 252, in handle_one_request
+    handler.run(self.server.get_app())
+    │       │   │    │      └ <function WSGIServer.get_app at 0x00000219A5CFE0C0>
+    │       │   │    └ <django.core.servers.basehttp.WSGIServer object at 0x00000219A5EAE490>
+    │       │   └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x00000219A643F510>
+    │       └ <function BaseHandler.run at 0x00000219A5CDA480>
+    └ <django.core.servers.basehttp.ServerHandler object at 0x00000219A6444E50>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\wsgiref\handlers.py", line 137, in run
+    self.result = application(self.environ, self.start_response)
+    │    │        │           │    │        │    └ <function BaseHandler.start_response at 0x00000219A5CDA840>
+    │    │        │           │    │        └ <django.core.servers.basehttp.ServerHandler object at 0x00000219A6444E50>
+    │    │        │           │    └ {'ALLUSERSPROFILE': 'C:\\ProgramData', 'APPDATA': 'C:\\Users\\bestware\\AppData\\Roaming', 'ASL.LOG': 'Destination=file', 'CO...
+    │    │        │           └ <django.core.servers.basehttp.ServerHandler object at 0x00000219A6444E50>
+    │    │        └ <django.contrib.staticfiles.handlers.StaticFilesHandler object at 0x00000219A5EAE550>
+    │    └ None
+    └ <django.core.servers.basehttp.ServerHandler object at 0x00000219A6444E50>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\staticfiles\handlers.py", line 80, in __call__
+    return self.application(environ, start_response)
+           │    │           │        └ <bound method BaseHandler.start_response of <django.core.servers.basehttp.ServerHandler object at 0x00000219A6444E50>>
+           │    │           └ {'ALLUSERSPROFILE': 'C:\\ProgramData', 'APPDATA': 'C:\\Users\\bestware\\AppData\\Roaming', 'ASL.LOG': 'Destination=file', 'CO...
+           │    └ <django.core.handlers.wsgi.WSGIHandler object at 0x00000219A501D550>
+           └ <django.contrib.staticfiles.handlers.StaticFilesHandler object at 0x00000219A5EAE550>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\wsgi.py", line 124, in __call__
+    response = self.get_response(request)
+               │    │            └ <WSGIRequest: POST '/signup/'>
+               │    └ <function BaseHandler.get_response at 0x00000219A5CB42C0>
+               └ <django.core.handlers.wsgi.WSGIHandler object at 0x00000219A501D550>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\base.py", line 140, in get_response
+    response = self._middleware_chain(request)
+               │    │                 └ <WSGIRequest: POST '/signup/'>
+               │    └ <function convert_exception_to_response.<locals>.inner at 0x00000219A5ED6980>
+               └ <django.core.handlers.wsgi.WSGIHandler object at 0x00000219A501D550>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <SecurityMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x00000219A5ED6840>
+               │           └ <SecurityMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <SessionMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x00000219A5ED67A0>
+               │           └ <SessionMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <CommonMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x00000219A5ED62A0>
+               │           └ <CommonMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <CsrfViewMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x00000219A5ED6480>
+               │           └ <CsrfViewMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <AuthenticationMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x00000219A5E236A0>
+               │           └ <AuthenticationMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <MessageMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x00000219A5CFF920>
+               │           └ <MessageMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <XFrameOptionsMiddleware get_response=BaseHandler._get_response>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function BaseHandler._get_response at 0x00000219A5E23E20>
+               │           └ <XFrameOptionsMiddleware get_response=BaseHandler._get_response>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <bound method BaseHandler._get_response of <django.core.handlers.wsgi.WSGIHandler object at 0x00000219A501D550>>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               │                │         │                └ {}
+               │                │         └ ()
+               │                └ <WSGIRequest: POST '/signup/'>
+               └ <function create_teacher at 0x00000219A5D0E2A0>
+
+> File "C:\Users\bestware\Desktop\KMS_django\kmsd\views.py", line 46, in create_teacher
+    user = User.objects.create_user(
+           │    └ <django.db.models.manager.ManagerDescriptor object at 0x00000219A5C00D90>
+           └ <class 'django.contrib.auth.models.User'>
+
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\models.py", line 161, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+           │    │            │         │      │           └ {'is_staff': False, 'is_superuser': False}
+           │    │            │         │      └ "b'YmlzaH"
+           │    │            │         └ 'bishwesh@rippey.ai'
+           │    │            └ 'bishwesh'
+           │    └ <function UserManager._create_user at 0x00000219A5BEDBC0>
+           └ <django.contrib.auth.models.UserManager object at 0x00000219A5A5D250>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\models.py", line 155, in _create_user
+    user.save(using=self._db)
+    │    │          │    └ None
+    │    │          └ <django.contrib.auth.models.UserManager object at 0x00000219A5A5D250>
+    │    └ <function AbstractBaseUser.save at 0x00000219A5A92480>
+    └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\base_user.py", line 76, in save
+    super().save(*args, **kwargs)
+                  │       └ {'using': None}
+                  └ ()
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+    │    └ <function Model.save_base at 0x00000219A4F3BE20>
+    └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+              │    └ <function Model._save_table at 0x00000219A4F3BF60>
+              └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+              │    └ <function Model._do_insert at 0x00000219A4F440E0>
+              └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+           │       └ <function QuerySet._insert at 0x00000219A4EC93A0>
+           └ <django.db.models.manager.Manager object at 0x00000219A6455590>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+                   │    │               │      │       └ {'fields': [<django.db.models.fields.CharField: password>, <django.db.models.fields.DateTimeField: last_login>, <django.db.mo...
+                   │    │               │      └ ([<User: bishwesh>],)
+                   │    │               └ '_insert'
+                   │    └ <function BaseManager.get_queryset at 0x00000219A4EC9080>
+                   └ <django.db.models.manager.Manager object at 0x00000219A6455590>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           │     │                  │                  └ [<django.db.models.fields.AutoField: id>]
+           │     │                  └ 'default'
+           │     └ <function Query.get_compiler at 0x00000219A4E43560>
+           └ <django.db.models.sql.subqueries.InsertQuery object at 0x00000219A6455A10>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+    │      │       │    └ ('pbkdf2_sha256$600000$luxnagLtriIIYTrLDUjzeJ$aGT2FhlgADmLoZ7JLSf71guHU3tLW7AYZ4S+1TGT5xE=', None, False, 'bishwesh', '', '',...
+    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+    │      └ <function CursorDebugWrapper.execute at 0x00000219A4DEE840>
+    └ <django.db.backends.utils.CursorDebugWrapper object at 0x00000219A6456150>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+                           │    └ ('pbkdf2_sha256$600000$luxnagLtriIIYTrLDUjzeJ$aGT2FhlgADmLoZ7JLSf71guHU3tLW7AYZ4S+1TGT5xE=', None, False, 'bishwesh', '', '',...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           │    └ <function CursorWrapper._execute_with_wrappers at 0x00000219A4DEE660>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x00000219A6456150>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           │        │    │       │     └ {'connection': <DatabaseWrapper vendor='sqlite' alias='default'>, 'cursor': <django.db.backends.utils.CursorDebugWrapper obje...
+           │        │    │       └ False
+           │        │    └ ('pbkdf2_sha256$600000$luxnagLtriIIYTrLDUjzeJ$aGT2FhlgADmLoZ7JLSf71guHU3tLW7AYZ4S+1TGT5xE=', None, False, 'bishwesh', '', '',...
+           │        └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           └ <bound method CursorWrapper._execute of <django.db.backends.utils.CursorDebugWrapper object at 0x00000219A6456150>>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+         │    │  └ <django.db.utils.DatabaseErrorWrapper object at 0x00000219A64560D0>
+         │    └ <DatabaseWrapper vendor='sqlite' alias='default'>
+         └ <django.db.backends.utils.CursorDebugWrapper object at 0x00000219A6456150>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+          │            │              │               └ IntegrityError('UNIQUE constraint failed: auth_user.username')
+          │            │              └ <traceback object at 0x00000219A6456AC0>
+          │            └ <method 'with_traceback' of 'BaseException' objects>
+          └ IntegrityError('UNIQUE constraint failed: auth_user.username')
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           │    │      │       │    └ ('pbkdf2_sha256$600000$luxnagLtriIIYTrLDUjzeJ$aGT2FhlgADmLoZ7JLSf71guHU3tLW7AYZ4S+1TGT5xE=', None, False, 'bishwesh', '', '',...
+           │    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           │    │      └ <function SQLiteCursorWrapper.execute at 0x00000219A5BEC540>
+           │    └ <django.db.backends.sqlite3.base.SQLiteCursorWrapper object at 0x00000219A6421130>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x00000219A6456150>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+                           │      └ ('pbkdf2_sha256$600000$luxnagLtriIIYTrLDUjzeJ$aGT2FhlgADmLoZ7JLSf71guHU3tLW7AYZ4S+1TGT5xE=', None, False, 'bishwesh', '', '',...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+
+django.db.utils.IntegrityError: UNIQUE constraint failed: auth_user.username
+2024-02-17 16:28:40 +05:45| INFO | kmsd.views:45 | username='bishwesh'
+2024-02-17 16:28:40 +05:45| ERROR | kmsd.views:61 | UNIQUE constraint failed: auth_user.username
+Traceback (most recent call last):
+
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           │    │      │       │    └ ('pbkdf2_sha256$600000$gKrxm1xLQ6e41Pf0X4Egtb$Mkeoicn3U8UuaXG1lvkACXgeTBS+eEsZC1ks+EPZAPY=', None, False, 'bishwesh', '', '',...
+           │    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           │    │      └ <function SQLiteCursorWrapper.execute at 0x000002096942C540>
+           │    └ <django.db.backends.sqlite3.base.SQLiteCursorWrapper object at 0x0000020969C611C0>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x0000020969C94310>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+                           │      └ ('pbkdf2_sha256$600000$gKrxm1xLQ6e41Pf0X4Egtb$Mkeoicn3U8UuaXG1lvkACXgeTBS+eEsZC1ks+EPZAPY=', None, False, 'bishwesh', '', '',...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+
+sqlite3.IntegrityError: UNIQUE constraint failed: auth_user.username
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 1002, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x0000020965D253A0>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 21688)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 1045, in _bootstrap_inner
+    self.run()
+    │    └ <function Thread.run at 0x0000020965D256C0>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 21688)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 982, in run
+    self._target(*self._args, **self._kwargs)
+    │    │        │    │        │    └ {}
+    │    │        │    │        └ <Thread(Thread-1 (process_request_thread), started daemon 21688)>
+    │    │        │    └ (<socket.socket fd=360, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 56508)>, ('127.0.0.1', 56508))
+    │    │        └ <Thread(Thread-1 (process_request_thread), started daemon 21688)>
+    │    └ <bound method ThreadingMixIn.process_request_thread of <django.core.servers.basehttp.WSGIServer object at 0x00000209696FEE90>>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 21688)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+    │    │              │        └ ('127.0.0.1', 56508)
+    │    │              └ <socket.socket fd=360, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 56508)>
+    │    └ <function BaseServer.finish_request at 0x00000209687E32E0>
+    └ <django.core.servers.basehttp.WSGIServer object at 0x00000209696FEE90>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    │    │                   │        │               └ <django.core.servers.basehttp.WSGIServer object at 0x00000209696FEE90>
+    │    │                   │        └ ('127.0.0.1', 56508)
+    │    │                   └ <socket.socket fd=360, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 56508)>
+    │    └ <class 'django.core.servers.basehttp.WSGIRequestHandler'>
+    └ <django.core.servers.basehttp.WSGIServer object at 0x00000209696FEE90>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 755, in __init__
+    self.handle()
+    │    └ <function WSGIRequestHandler.handle at 0x000002096953F060>
+    └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x0000020969C7F5D0>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\servers\basehttp.py", line 227, in handle
+    self.handle_one_request()
+    │    └ <function WSGIRequestHandler.handle_one_request at 0x000002096953F100>
+    └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x0000020969C7F5D0>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\servers\basehttp.py", line 252, in handle_one_request
+    handler.run(self.server.get_app())
+    │       │   │    │      └ <function WSGIServer.get_app at 0x000002096953E0C0>
+    │       │   │    └ <django.core.servers.basehttp.WSGIServer object at 0x00000209696FEE90>
+    │       │   └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x0000020969C7F5D0>
+    │       └ <function BaseHandler.run at 0x000002096951A480>
+    └ <django.core.servers.basehttp.ServerHandler object at 0x0000020969C80E10>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\wsgiref\handlers.py", line 137, in run
+    self.result = application(self.environ, self.start_response)
+    │    │        │           │    │        │    └ <function BaseHandler.start_response at 0x000002096951A840>
+    │    │        │           │    │        └ <django.core.servers.basehttp.ServerHandler object at 0x0000020969C80E10>
+    │    │        │           │    └ {'ALLUSERSPROFILE': 'C:\\ProgramData', 'APPDATA': 'C:\\Users\\bestware\\AppData\\Roaming', 'ASL.LOG': 'Destination=file', 'CO...
+    │    │        │           └ <django.core.servers.basehttp.ServerHandler object at 0x0000020969C80E10>
+    │    │        └ <django.contrib.staticfiles.handlers.StaticFilesHandler object at 0x00000209696EF210>
+    │    └ None
+    └ <django.core.servers.basehttp.ServerHandler object at 0x0000020969C80E10>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\staticfiles\handlers.py", line 80, in __call__
+    return self.application(environ, start_response)
+           │    │           │        └ <bound method BaseHandler.start_response of <django.core.servers.basehttp.ServerHandler object at 0x0000020969C80E10>>
+           │    │           └ {'ALLUSERSPROFILE': 'C:\\ProgramData', 'APPDATA': 'C:\\Users\\bestware\\AppData\\Roaming', 'ASL.LOG': 'Destination=file', 'CO...
+           │    └ <django.core.handlers.wsgi.WSGIHandler object at 0x0000020965CF3450>
+           └ <django.contrib.staticfiles.handlers.StaticFilesHandler object at 0x00000209696EF210>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\wsgi.py", line 124, in __call__
+    response = self.get_response(request)
+               │    │            └ <WSGIRequest: POST '/signup/'>
+               │    └ <function BaseHandler.get_response at 0x00000209694F42C0>
+               └ <django.core.handlers.wsgi.WSGIHandler object at 0x0000020965CF3450>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\base.py", line 140, in get_response
+    response = self._middleware_chain(request)
+               │    │                 └ <WSGIRequest: POST '/signup/'>
+               │    └ <function convert_exception_to_response.<locals>.inner at 0x000002096971AD40>
+               └ <django.core.handlers.wsgi.WSGIHandler object at 0x0000020965CF3450>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <SecurityMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000002096971A980>
+               │           └ <SecurityMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <SessionMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000002096971A8E0>
+               │           └ <SessionMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <CommonMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000002096971A660>
+               │           └ <CommonMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <CsrfViewMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000002096971A2A0>
+               │           └ <CsrfViewMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <AuthenticationMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000002096971A3E0>
+               │           └ <AuthenticationMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <MessageMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000002096953F920>
+               │           └ <MessageMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <XFrameOptionsMiddleware get_response=BaseHandler._get_response>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function BaseHandler._get_response at 0x0000020969663E20>
+               │           └ <XFrameOptionsMiddleware get_response=BaseHandler._get_response>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <bound method BaseHandler._get_response of <django.core.handlers.wsgi.WSGIHandler object at 0x0000020965CF3450>>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               │                │         │                └ {}
+               │                │         └ ()
+               │                └ <WSGIRequest: POST '/signup/'>
+               └ <function create_teacher at 0x000002096954E200>
+
+> File "C:\Users\bestware\Desktop\KMS_django\kmsd\views.py", line 47, in create_teacher
+    user = User.objects.create_user(
+           │    └ <django.db.models.manager.ManagerDescriptor object at 0x0000020969440E50>
+           └ <class 'django.contrib.auth.models.User'>
+
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\models.py", line 161, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+           │    │            │         │      │           └ {'is_staff': False, 'is_superuser': False}
+           │    │            │         │      └ "b'YmlzaH"
+           │    │            │         └ 'bishwesh@rippey.ai'
+           │    │            └ 'bishwesh'
+           │    └ <function UserManager._create_user at 0x000002096942DBC0>
+           └ <django.contrib.auth.models.UserManager object at 0x0000020969444D10>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\models.py", line 155, in _create_user
+    user.save(using=self._db)
+    │    │          │    └ None
+    │    │          └ <django.contrib.auth.models.UserManager object at 0x0000020969444D10>
+    │    └ <function AbstractBaseUser.save at 0x00000209692D2480>
+    └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\base_user.py", line 76, in save
+    super().save(*args, **kwargs)
+                  │       └ {'using': None}
+                  └ ()
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+    │    └ <function Model.save_base at 0x000002096877BE20>
+    └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+              │    └ <function Model._save_table at 0x000002096877BF60>
+              └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+              │    └ <function Model._do_insert at 0x00000209687840E0>
+              └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+           │       └ <function QuerySet._insert at 0x00000209687093A0>
+           └ <django.db.models.manager.Manager object at 0x0000020969C83150>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+                   │    │               │      │       └ {'fields': [<django.db.models.fields.CharField: password>, <django.db.models.fields.DateTimeField: last_login>, <django.db.mo...
+                   │    │               │      └ ([<User: bishwesh>],)
+                   │    │               └ '_insert'
+                   │    └ <function BaseManager.get_queryset at 0x0000020968709080>
+                   └ <django.db.models.manager.Manager object at 0x0000020969C83150>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           │     │                  │                  └ [<django.db.models.fields.AutoField: id>]
+           │     │                  └ 'default'
+           │     └ <function Query.get_compiler at 0x0000020968683560>
+           └ <django.db.models.sql.subqueries.InsertQuery object at 0x0000020969C83690>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+    │      │       │    └ ('pbkdf2_sha256$600000$gKrxm1xLQ6e41Pf0X4Egtb$Mkeoicn3U8UuaXG1lvkACXgeTBS+eEsZC1ks+EPZAPY=', None, False, 'bishwesh', '', '',...
+    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+    │      └ <function CursorDebugWrapper.execute at 0x000002096862E840>
+    └ <django.db.backends.utils.CursorDebugWrapper object at 0x0000020969C94310>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+                           │    └ ('pbkdf2_sha256$600000$gKrxm1xLQ6e41Pf0X4Egtb$Mkeoicn3U8UuaXG1lvkACXgeTBS+eEsZC1ks+EPZAPY=', None, False, 'bishwesh', '', '',...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           │    └ <function CursorWrapper._execute_with_wrappers at 0x000002096862E660>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x0000020969C94310>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           │        │    │       │     └ {'connection': <DatabaseWrapper vendor='sqlite' alias='default'>, 'cursor': <django.db.backends.utils.CursorDebugWrapper obje...
+           │        │    │       └ False
+           │        │    └ ('pbkdf2_sha256$600000$gKrxm1xLQ6e41Pf0X4Egtb$Mkeoicn3U8UuaXG1lvkACXgeTBS+eEsZC1ks+EPZAPY=', None, False, 'bishwesh', '', '',...
+           │        └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           └ <bound method CursorWrapper._execute of <django.db.backends.utils.CursorDebugWrapper object at 0x0000020969C94310>>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+         │    │  └ <django.db.utils.DatabaseErrorWrapper object at 0x0000020969C943D0>
+         │    └ <DatabaseWrapper vendor='sqlite' alias='default'>
+         └ <django.db.backends.utils.CursorDebugWrapper object at 0x0000020969C94310>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+          │            │              │               └ IntegrityError('UNIQUE constraint failed: auth_user.username')
+          │            │              └ <traceback object at 0x0000020969C96B80>
+          │            └ <method 'with_traceback' of 'BaseException' objects>
+          └ IntegrityError('UNIQUE constraint failed: auth_user.username')
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           │    │      │       │    └ ('pbkdf2_sha256$600000$gKrxm1xLQ6e41Pf0X4Egtb$Mkeoicn3U8UuaXG1lvkACXgeTBS+eEsZC1ks+EPZAPY=', None, False, 'bishwesh', '', '',...
+           │    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           │    │      └ <function SQLiteCursorWrapper.execute at 0x000002096942C540>
+           │    └ <django.db.backends.sqlite3.base.SQLiteCursorWrapper object at 0x0000020969C611C0>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x0000020969C94310>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+                           │      └ ('pbkdf2_sha256$600000$gKrxm1xLQ6e41Pf0X4Egtb$Mkeoicn3U8UuaXG1lvkACXgeTBS+eEsZC1ks+EPZAPY=', None, False, 'bishwesh', '', '',...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+
+django.db.utils.IntegrityError: UNIQUE constraint failed: auth_user.username
+2024-02-17 16:28:56 +05:45| INFO | kmsd.views:45 | username='bishwesh'
+2024-02-17 16:28:56 +05:45| ERROR | kmsd.views:61 | {'message': 'User already exists!'}
+Traceback (most recent call last):
+
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           │    │      │       │    └ ('pbkdf2_sha256$600000$3ZqfupXbxUaHX7kPdTaw7t$Agwu9F3FFlbhOj7Bq1/3RjbjjE5QaQU+N5DrozE4heo=', None, False, 'bishwesh', '', '',...
+           │    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           │    │      └ <function SQLiteCursorWrapper.execute at 0x00000198C0ECC540>
+           │    └ <django.db.backends.sqlite3.base.SQLiteCursorWrapper object at 0x00000198C17010A0>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x00000198C1736050>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+                           │      └ ('pbkdf2_sha256$600000$3ZqfupXbxUaHX7kPdTaw7t$Agwu9F3FFlbhOj7Bq1/3RjbjjE5QaQU+N5DrozE4heo=', None, False, 'bishwesh', '', '',...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+
+sqlite3.IntegrityError: UNIQUE constraint failed: auth_user.username
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 1002, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x00000198BD8753A0>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 4348)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 1045, in _bootstrap_inner
+    self.run()
+    │    └ <function Thread.run at 0x00000198BD8756C0>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 4348)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 982, in run
+    self._target(*self._args, **self._kwargs)
+    │    │        │    │        │    └ {}
+    │    │        │    │        └ <Thread(Thread-1 (process_request_thread), started daemon 4348)>
+    │    │        │    └ (<socket.socket fd=1260, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 56514)>, ('127.0.0.1', 565...
+    │    │        └ <Thread(Thread-1 (process_request_thread), started daemon 4348)>
+    │    └ <bound method ThreadingMixIn.process_request_thread of <django.core.servers.basehttp.WSGIServer object at 0x00000198C118F0D0>>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 4348)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+    │    │              │        └ ('127.0.0.1', 56514)
+    │    │              └ <socket.socket fd=1260, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 56514)>
+    │    └ <function BaseServer.finish_request at 0x00000198C02832E0>
+    └ <django.core.servers.basehttp.WSGIServer object at 0x00000198C118F0D0>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    │    │                   │        │               └ <django.core.servers.basehttp.WSGIServer object at 0x00000198C118F0D0>
+    │    │                   │        └ ('127.0.0.1', 56514)
+    │    │                   └ <socket.socket fd=1260, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 56514)>
+    │    └ <class 'django.core.servers.basehttp.WSGIRequestHandler'>
+    └ <django.core.servers.basehttp.WSGIServer object at 0x00000198C118F0D0>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 755, in __init__
+    self.handle()
+    │    └ <function WSGIRequestHandler.handle at 0x00000198C0FDF060>
+    └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x00000198C171F810>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\servers\basehttp.py", line 227, in handle
+    self.handle_one_request()
+    │    └ <function WSGIRequestHandler.handle_one_request at 0x00000198C0FDF100>
+    └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x00000198C171F810>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\servers\basehttp.py", line 252, in handle_one_request
+    handler.run(self.server.get_app())
+    │       │   │    │      └ <function WSGIServer.get_app at 0x00000198C0FDE0C0>
+    │       │   │    └ <django.core.servers.basehttp.WSGIServer object at 0x00000198C118F0D0>
+    │       │   └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x00000198C171F810>
+    │       └ <function BaseHandler.run at 0x00000198C0FBA480>
+    └ <django.core.servers.basehttp.ServerHandler object at 0x00000198C1720D50>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\wsgiref\handlers.py", line 137, in run
+    self.result = application(self.environ, self.start_response)
+    │    │        │           │    │        │    └ <function BaseHandler.start_response at 0x00000198C0FBA840>
+    │    │        │           │    │        └ <django.core.servers.basehttp.ServerHandler object at 0x00000198C1720D50>
+    │    │        │           │    └ {'ALLUSERSPROFILE': 'C:\\ProgramData', 'APPDATA': 'C:\\Users\\bestware\\AppData\\Roaming', 'ASL.LOG': 'Destination=file', 'CO...
+    │    │        │           └ <django.core.servers.basehttp.ServerHandler object at 0x00000198C1720D50>
+    │    │        └ <django.contrib.staticfiles.handlers.StaticFilesHandler object at 0x00000198C10F7790>
+    │    └ None
+    └ <django.core.servers.basehttp.ServerHandler object at 0x00000198C1720D50>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\staticfiles\handlers.py", line 80, in __call__
+    return self.application(environ, start_response)
+           │    │           │        └ <bound method BaseHandler.start_response of <django.core.servers.basehttp.ServerHandler object at 0x00000198C1720D50>>
+           │    │           └ {'ALLUSERSPROFILE': 'C:\\ProgramData', 'APPDATA': 'C:\\Users\\bestware\\AppData\\Roaming', 'ASL.LOG': 'Destination=file', 'CO...
+           │    └ <django.core.handlers.wsgi.WSGIHandler object at 0x00000198C02FD650>
+           └ <django.contrib.staticfiles.handlers.StaticFilesHandler object at 0x00000198C10F7790>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\wsgi.py", line 124, in __call__
+    response = self.get_response(request)
+               │    │            └ <WSGIRequest: POST '/signup/'>
+               │    └ <function BaseHandler.get_response at 0x00000198C0F942C0>
+               └ <django.core.handlers.wsgi.WSGIHandler object at 0x00000198C02FD650>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\base.py", line 140, in get_response
+    response = self._middleware_chain(request)
+               │    │                 └ <WSGIRequest: POST '/signup/'>
+               │    └ <function convert_exception_to_response.<locals>.inner at 0x00000198C11A6D40>
+               └ <django.core.handlers.wsgi.WSGIHandler object at 0x00000198C02FD650>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <SecurityMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x00000198C11A6A20>
+               │           └ <SecurityMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <SessionMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x00000198C11A6980>
+               │           └ <SessionMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <CommonMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x00000198C11A67A0>
+               │           └ <CommonMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <CsrfViewMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x00000198C11A6340>
+               │           └ <CsrfViewMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <AuthenticationMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x00000198C11A4040>
+               │           └ <AuthenticationMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <MessageMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x00000198C0FDF920>
+               │           └ <MessageMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <XFrameOptionsMiddleware get_response=BaseHandler._get_response>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function BaseHandler._get_response at 0x00000198C1103CE0>
+               │           └ <XFrameOptionsMiddleware get_response=BaseHandler._get_response>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <bound method BaseHandler._get_response of <django.core.handlers.wsgi.WSGIHandler object at 0x00000198C02FD650>>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               │                │         │                └ {}
+               │                │         └ ()
+               │                └ <WSGIRequest: POST '/signup/'>
+               └ <function create_teacher at 0x00000198C0FEE200>
+
+> File "C:\Users\bestware\Desktop\KMS_django\kmsd\views.py", line 47, in create_teacher
+    user = User.objects.create_user(
+           │    └ <django.db.models.manager.ManagerDescriptor object at 0x00000198C0EE0E90>
+           └ <class 'django.contrib.auth.models.User'>
+
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\models.py", line 161, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+           │    │            │         │      │           └ {'is_staff': False, 'is_superuser': False}
+           │    │            │         │      └ "b'YmlzaH"
+           │    │            │         └ 'bishwesh@rippey.ai'
+           │    │            └ 'bishwesh'
+           │    └ <function UserManager._create_user at 0x00000198C0ECDBC0>
+           └ <django.contrib.auth.models.UserManager object at 0x00000198C0EE4BD0>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\models.py", line 155, in _create_user
+    user.save(using=self._db)
+    │    │          │    └ None
+    │    │          └ <django.contrib.auth.models.UserManager object at 0x00000198C0EE4BD0>
+    │    └ <function AbstractBaseUser.save at 0x00000198C0D72480>
+    └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\base_user.py", line 76, in save
+    super().save(*args, **kwargs)
+                  │       └ {'using': None}
+                  └ ()
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+    │    └ <function Model.save_base at 0x00000198C021BE20>
+    └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+              │    └ <function Model._save_table at 0x00000198C021BF60>
+              └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+              │    └ <function Model._do_insert at 0x00000198C02240E0>
+              └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+           │       └ <function QuerySet._insert at 0x00000198C01A93A0>
+           └ <django.db.models.manager.Manager object at 0x00000198C17355D0>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+                   │    │               │      │       └ {'fields': [<django.db.models.fields.CharField: password>, <django.db.models.fields.DateTimeField: last_login>, <django.db.mo...
+                   │    │               │      └ ([<User: bishwesh>],)
+                   │    │               └ '_insert'
+                   │    └ <function BaseManager.get_queryset at 0x00000198C01A9080>
+                   └ <django.db.models.manager.Manager object at 0x00000198C17355D0>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           │     │                  │                  └ [<django.db.models.fields.AutoField: id>]
+           │     │                  └ 'default'
+           │     └ <function Query.get_compiler at 0x00000198C0123560>
+           └ <django.db.models.sql.subqueries.InsertQuery object at 0x00000198C1735A10>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+    │      │       │    └ ('pbkdf2_sha256$600000$3ZqfupXbxUaHX7kPdTaw7t$Agwu9F3FFlbhOj7Bq1/3RjbjjE5QaQU+N5DrozE4heo=', None, False, 'bishwesh', '', '',...
+    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+    │      └ <function CursorDebugWrapper.execute at 0x00000198C00CE840>
+    └ <django.db.backends.utils.CursorDebugWrapper object at 0x00000198C1736050>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+                           │    └ ('pbkdf2_sha256$600000$3ZqfupXbxUaHX7kPdTaw7t$Agwu9F3FFlbhOj7Bq1/3RjbjjE5QaQU+N5DrozE4heo=', None, False, 'bishwesh', '', '',...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           │    └ <function CursorWrapper._execute_with_wrappers at 0x00000198C00CE660>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x00000198C1736050>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           │        │    │       │     └ {'connection': <DatabaseWrapper vendor='sqlite' alias='default'>, 'cursor': <django.db.backends.utils.CursorDebugWrapper obje...
+           │        │    │       └ False
+           │        │    └ ('pbkdf2_sha256$600000$3ZqfupXbxUaHX7kPdTaw7t$Agwu9F3FFlbhOj7Bq1/3RjbjjE5QaQU+N5DrozE4heo=', None, False, 'bishwesh', '', '',...
+           │        └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           └ <bound method CursorWrapper._execute of <django.db.backends.utils.CursorDebugWrapper object at 0x00000198C1736050>>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+         │    │  └ <django.db.utils.DatabaseErrorWrapper object at 0x00000198C1735F90>
+         │    └ <DatabaseWrapper vendor='sqlite' alias='default'>
+         └ <django.db.backends.utils.CursorDebugWrapper object at 0x00000198C1736050>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+          │            │              │               └ IntegrityError('UNIQUE constraint failed: auth_user.username')
+          │            │              └ <traceback object at 0x00000198C1734580>
+          │            └ <method 'with_traceback' of 'BaseException' objects>
+          └ IntegrityError('UNIQUE constraint failed: auth_user.username')
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           │    │      │       │    └ ('pbkdf2_sha256$600000$3ZqfupXbxUaHX7kPdTaw7t$Agwu9F3FFlbhOj7Bq1/3RjbjjE5QaQU+N5DrozE4heo=', None, False, 'bishwesh', '', '',...
+           │    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           │    │      └ <function SQLiteCursorWrapper.execute at 0x00000198C0ECC540>
+           │    └ <django.db.backends.sqlite3.base.SQLiteCursorWrapper object at 0x00000198C17010A0>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x00000198C1736050>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+                           │      └ ('pbkdf2_sha256$600000$3ZqfupXbxUaHX7kPdTaw7t$Agwu9F3FFlbhOj7Bq1/3RjbjjE5QaQU+N5DrozE4heo=', None, False, 'bishwesh', '', '',...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+
+django.db.utils.IntegrityError: UNIQUE constraint failed: auth_user.username
+2024-02-17 16:29:26 +05:45| INFO | kmsd.views:45 | username='bishwesh'
+2024-02-17 16:29:26 +05:45| ERROR | kmsd.views:61 | {'message': 'User already exists!'}
+Traceback (most recent call last):
+
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           │    │      │       │    └ ('pbkdf2_sha256$600000$knu0OxV5khmsCCxzBZ4mLA$Y7lyIstWiPCrXs34E9GxNIcH19gVZ6JC16YzqiT2ZFQ=', None, False, 'bishwesh', '', '',...
+           │    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           │    │      └ <function SQLiteCursorWrapper.execute at 0x000002B7A815C540>
+           │    └ <django.db.backends.sqlite3.base.SQLiteCursorWrapper object at 0x000002B7A888DEB0>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x000002B7A8944DD0>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+                           │      └ ('pbkdf2_sha256$600000$knu0OxV5khmsCCxzBZ4mLA$Y7lyIstWiPCrXs34E9GxNIcH19gVZ6JC16YzqiT2ZFQ=', None, False, 'bishwesh', '', '',...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+
+sqlite3.IntegrityError: UNIQUE constraint failed: auth_user.username
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 1002, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x000002B7A4AC53A0>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 21132)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 1045, in _bootstrap_inner
+    self.run()
+    │    └ <function Thread.run at 0x000002B7A4AC56C0>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 21132)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 982, in run
+    self._target(*self._args, **self._kwargs)
+    │    │        │    │        │    └ {}
+    │    │        │    │        └ <Thread(Thread-1 (process_request_thread), started daemon 21132)>
+    │    │        │    └ (<socket.socket fd=1112, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 56525)>, ('127.0.0.1', 565...
+    │    │        └ <Thread(Thread-1 (process_request_thread), started daemon 21132)>
+    │    └ <bound method ThreadingMixIn.process_request_thread of <django.core.servers.basehttp.WSGIServer object at 0x000002B7A83B6FD0>>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 21132)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+    │    │              │        └ ('127.0.0.1', 56525)
+    │    │              └ <socket.socket fd=1112, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 56525)>
+    │    └ <function BaseServer.finish_request at 0x000002B7A7D132E0>
+    └ <django.core.servers.basehttp.WSGIServer object at 0x000002B7A83B6FD0>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    │    │                   │        │               └ <django.core.servers.basehttp.WSGIServer object at 0x000002B7A83B6FD0>
+    │    │                   │        └ ('127.0.0.1', 56525)
+    │    │                   └ <socket.socket fd=1112, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 56525)>
+    │    └ <class 'django.core.servers.basehttp.WSGIRequestHandler'>
+    └ <django.core.servers.basehttp.WSGIServer object at 0x000002B7A83B6FD0>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 755, in __init__
+    self.handle()
+    │    └ <function WSGIRequestHandler.handle at 0x000002B7A826F060>
+    └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x000002B7A8408250>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\servers\basehttp.py", line 229, in handle
+    self.handle_one_request()
+    │    └ <function WSGIRequestHandler.handle_one_request at 0x000002B7A826F100>
+    └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x000002B7A8408250>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\servers\basehttp.py", line 252, in handle_one_request
+    handler.run(self.server.get_app())
+    │       │   │    │      └ <function WSGIServer.get_app at 0x000002B7A826E0C0>
+    │       │   │    └ <django.core.servers.basehttp.WSGIServer object at 0x000002B7A83B6FD0>
+    │       │   └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x000002B7A8408250>
+    │       └ <function BaseHandler.run at 0x000002B7A824A480>
+    └ <django.core.servers.basehttp.ServerHandler object at 0x000002B7A89B0DD0>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\wsgiref\handlers.py", line 137, in run
+    self.result = application(self.environ, self.start_response)
+    │    │        │           │    │        │    └ <function BaseHandler.start_response at 0x000002B7A824A840>
+    │    │        │           │    │        └ <django.core.servers.basehttp.ServerHandler object at 0x000002B7A89B0DD0>
+    │    │        │           │    └ {'ALLUSERSPROFILE': 'C:\\ProgramData', 'APPDATA': 'C:\\Users\\bestware\\AppData\\Roaming', 'ASL.LOG': 'Destination=file', 'CO...
+    │    │        │           └ <django.core.servers.basehttp.ServerHandler object at 0x000002B7A89B0DD0>
+    │    │        └ <django.contrib.staticfiles.handlers.StaticFilesHandler object at 0x000002B7A843CF10>
+    │    └ None
+    └ <django.core.servers.basehttp.ServerHandler object at 0x000002B7A89B0DD0>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\staticfiles\handlers.py", line 80, in __call__
+    return self.application(environ, start_response)
+           │    │           │        └ <bound method BaseHandler.start_response of <django.core.servers.basehttp.ServerHandler object at 0x000002B7A89B0DD0>>
+           │    │           └ {'ALLUSERSPROFILE': 'C:\\ProgramData', 'APPDATA': 'C:\\Users\\bestware\\AppData\\Roaming', 'ASL.LOG': 'Destination=file', 'CO...
+           │    └ <django.core.handlers.wsgi.WSGIHandler object at 0x000002B7A7D8D650>
+           └ <django.contrib.staticfiles.handlers.StaticFilesHandler object at 0x000002B7A843CF10>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\wsgi.py", line 124, in __call__
+    response = self.get_response(request)
+               │    │            └ <WSGIRequest: POST '/signup/'>
+               │    └ <function BaseHandler.get_response at 0x000002B7A82242C0>
+               └ <django.core.handlers.wsgi.WSGIHandler object at 0x000002B7A7D8D650>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\base.py", line 140, in get_response
+    response = self._middleware_chain(request)
+               │    │                 └ <WSGIRequest: POST '/signup/'>
+               │    └ <function convert_exception_to_response.<locals>.inner at 0x000002B7A8433380>
+               └ <django.core.handlers.wsgi.WSGIHandler object at 0x000002B7A7D8D650>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <SecurityMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000002B7A835F100>
+               │           └ <SecurityMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <SessionMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000002B7A84332E0>
+               │           └ <SessionMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <CommonMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000002B7A8433100>
+               │           └ <CommonMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <CsrfViewMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000002B7A8432FC0>
+               │           └ <CsrfViewMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <AuthenticationMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000002B7A8433060>
+               │           └ <AuthenticationMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <MessageMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000002B7A826FF60>
+               │           └ <MessageMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <XFrameOptionsMiddleware get_response=BaseHandler._get_response>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function BaseHandler._get_response at 0x000002B7A826F920>
+               │           └ <XFrameOptionsMiddleware get_response=BaseHandler._get_response>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <bound method BaseHandler._get_response of <django.core.handlers.wsgi.WSGIHandler object at 0x000002B7A7D8D650>>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               │                │         │                └ {}
+               │                │         └ ()
+               │                └ <WSGIRequest: POST '/signup/'>
+               └ <function create_teacher at 0x000002B7A827E200>
+
+> File "C:\Users\bestware\Desktop\KMS_django\kmsd\views.py", line 47, in create_teacher
+    user = User.objects.create_user(
+           │    └ <django.db.models.manager.ManagerDescriptor object at 0x000002B7A8170D90>
+           └ <class 'django.contrib.auth.models.User'>
+
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\models.py", line 161, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+           │    │            │         │      │           └ {'is_staff': False, 'is_superuser': False}
+           │    │            │         │      └ "b'YmlzaH"
+           │    │            │         └ 'bishwesh@'
+           │    │            └ 'bishwesh'
+           │    └ <function UserManager._create_user at 0x000002B7A815DBC0>
+           └ <django.contrib.auth.models.UserManager object at 0x000002B7A8174A90>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\models.py", line 155, in _create_user
+    user.save(using=self._db)
+    │    │          │    └ None
+    │    │          └ <django.contrib.auth.models.UserManager object at 0x000002B7A8174A90>
+    │    └ <function AbstractBaseUser.save at 0x000002B7A8002480>
+    └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\base_user.py", line 76, in save
+    super().save(*args, **kwargs)
+                  │       └ {'using': None}
+                  └ ()
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+    │    └ <function Model.save_base at 0x000002B7A7CABE20>
+    └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+              │    └ <function Model._save_table at 0x000002B7A7CABF60>
+              └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+              │    └ <function Model._do_insert at 0x000002B7A7CB40E0>
+              └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+           │       └ <function QuerySet._insert at 0x000002B7A74393A0>
+           └ <django.db.models.manager.Manager object at 0x000002B7A89CD110>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+                   │    │               │      │       └ {'fields': [<django.db.models.fields.CharField: password>, <django.db.models.fields.DateTimeField: last_login>, <django.db.mo...
+                   │    │               │      └ ([<User: bishwesh>],)
+                   │    │               └ '_insert'
+                   │    └ <function BaseManager.get_queryset at 0x000002B7A7439080>
+                   └ <django.db.models.manager.Manager object at 0x000002B7A89CD110>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           │     │                  │                  └ [<django.db.models.fields.AutoField: id>]
+           │     │                  └ 'default'
+           │     └ <function Query.get_compiler at 0x000002B7A73B3560>
+           └ <django.db.models.sql.subqueries.InsertQuery object at 0x000002B7A8944650>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+    │      │       │    └ ('pbkdf2_sha256$600000$knu0OxV5khmsCCxzBZ4mLA$Y7lyIstWiPCrXs34E9GxNIcH19gVZ6JC16YzqiT2ZFQ=', None, False, 'bishwesh', '', '',...
+    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+    │      └ <function CursorDebugWrapper.execute at 0x000002B7A735E840>
+    └ <django.db.backends.utils.CursorDebugWrapper object at 0x000002B7A8944DD0>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+                           │    └ ('pbkdf2_sha256$600000$knu0OxV5khmsCCxzBZ4mLA$Y7lyIstWiPCrXs34E9GxNIcH19gVZ6JC16YzqiT2ZFQ=', None, False, 'bishwesh', '', '',...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           │    └ <function CursorWrapper._execute_with_wrappers at 0x000002B7A735E660>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x000002B7A8944DD0>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           │        │    │       │     └ {'connection': <DatabaseWrapper vendor='sqlite' alias='default'>, 'cursor': <django.db.backends.utils.CursorDebugWrapper obje...
+           │        │    │       └ False
+           │        │    └ ('pbkdf2_sha256$600000$knu0OxV5khmsCCxzBZ4mLA$Y7lyIstWiPCrXs34E9GxNIcH19gVZ6JC16YzqiT2ZFQ=', None, False, 'bishwesh', '', '',...
+           │        └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           └ <bound method CursorWrapper._execute of <django.db.backends.utils.CursorDebugWrapper object at 0x000002B7A8944DD0>>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+         │    │  └ <django.db.utils.DatabaseErrorWrapper object at 0x000002B7A89CC350>
+         │    └ <DatabaseWrapper vendor='sqlite' alias='default'>
+         └ <django.db.backends.utils.CursorDebugWrapper object at 0x000002B7A8944DD0>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+          │            │              │               └ IntegrityError('UNIQUE constraint failed: auth_user.username')
+          │            │              └ <traceback object at 0x000002B7A89452C0>
+          │            └ <method 'with_traceback' of 'BaseException' objects>
+          └ IntegrityError('UNIQUE constraint failed: auth_user.username')
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           │    │      │       │    └ ('pbkdf2_sha256$600000$knu0OxV5khmsCCxzBZ4mLA$Y7lyIstWiPCrXs34E9GxNIcH19gVZ6JC16YzqiT2ZFQ=', None, False, 'bishwesh', '', '',...
+           │    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           │    │      └ <function SQLiteCursorWrapper.execute at 0x000002B7A815C540>
+           │    └ <django.db.backends.sqlite3.base.SQLiteCursorWrapper object at 0x000002B7A888DEB0>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x000002B7A8944DD0>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+                           │      └ ('pbkdf2_sha256$600000$knu0OxV5khmsCCxzBZ4mLA$Y7lyIstWiPCrXs34E9GxNIcH19gVZ6JC16YzqiT2ZFQ=', None, False, 'bishwesh', '', '',...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+
+django.db.utils.IntegrityError: UNIQUE constraint failed: auth_user.username
+2024-02-17 16:29:43 +05:45| INFO | kmsd.views:45 | username='bishwesh'
+2024-02-17 16:29:44 +05:45| ERROR | kmsd.views:61 | {'message': 'User already exists!'}
+Traceback (most recent call last):
+
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           │    │      │       │    └ ('pbkdf2_sha256$600000$1TZ4ga7gKbGoBmgWf6vD9z$Z+bFppZWz8JyOCZ7mN/LxEldu57LuKD7WrJrLMGhSn8=', None, False, 'bishwesh', '', '',...
+           │    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           │    │      └ <function SQLiteCursorWrapper.execute at 0x000002B7A815C540>
+           │    └ <django.db.backends.sqlite3.base.SQLiteCursorWrapper object at 0x000002B7A89910A0>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x000002B7A89A8E10>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+                           │      └ ('pbkdf2_sha256$600000$1TZ4ga7gKbGoBmgWf6vD9z$Z+bFppZWz8JyOCZ7mN/LxEldu57LuKD7WrJrLMGhSn8=', None, False, 'bishwesh', '', '',...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+
+sqlite3.IntegrityError: UNIQUE constraint failed: auth_user.username
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 1002, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x000002B7A4AC53A0>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 21132)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 1045, in _bootstrap_inner
+    self.run()
+    │    └ <function Thread.run at 0x000002B7A4AC56C0>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 21132)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 982, in run
+    self._target(*self._args, **self._kwargs)
+    │    │        │    │        │    └ {}
+    │    │        │    │        └ <Thread(Thread-1 (process_request_thread), started daemon 21132)>
+    │    │        │    └ (<socket.socket fd=1112, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 56525)>, ('127.0.0.1', 565...
+    │    │        └ <Thread(Thread-1 (process_request_thread), started daemon 21132)>
+    │    └ <bound method ThreadingMixIn.process_request_thread of <django.core.servers.basehttp.WSGIServer object at 0x000002B7A83B6FD0>>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 21132)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+    │    │              │        └ ('127.0.0.1', 56525)
+    │    │              └ <socket.socket fd=1112, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 56525)>
+    │    └ <function BaseServer.finish_request at 0x000002B7A7D132E0>
+    └ <django.core.servers.basehttp.WSGIServer object at 0x000002B7A83B6FD0>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    │    │                   │        │               └ <django.core.servers.basehttp.WSGIServer object at 0x000002B7A83B6FD0>
+    │    │                   │        └ ('127.0.0.1', 56525)
+    │    │                   └ <socket.socket fd=1112, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 56525)>
+    │    └ <class 'django.core.servers.basehttp.WSGIRequestHandler'>
+    └ <django.core.servers.basehttp.WSGIServer object at 0x000002B7A83B6FD0>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 755, in __init__
+    self.handle()
+    │    └ <function WSGIRequestHandler.handle at 0x000002B7A826F060>
+    └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x000002B7A8408250>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\servers\basehttp.py", line 229, in handle
+    self.handle_one_request()
+    │    └ <function WSGIRequestHandler.handle_one_request at 0x000002B7A826F100>
+    └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x000002B7A8408250>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\servers\basehttp.py", line 252, in handle_one_request
+    handler.run(self.server.get_app())
+    │       │   │    │      └ <function WSGIServer.get_app at 0x000002B7A826E0C0>
+    │       │   │    └ <django.core.servers.basehttp.WSGIServer object at 0x000002B7A83B6FD0>
+    │       │   └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x000002B7A8408250>
+    │       └ <function BaseHandler.run at 0x000002B7A824A480>
+    └ <django.core.servers.basehttp.ServerHandler object at 0x000002B7A88B3350>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\wsgiref\handlers.py", line 137, in run
+    self.result = application(self.environ, self.start_response)
+    │    │        │           │    │        │    └ <function BaseHandler.start_response at 0x000002B7A824A840>
+    │    │        │           │    │        └ <django.core.servers.basehttp.ServerHandler object at 0x000002B7A88B3350>
+    │    │        │           │    └ {'ALLUSERSPROFILE': 'C:\\ProgramData', 'APPDATA': 'C:\\Users\\bestware\\AppData\\Roaming', 'ASL.LOG': 'Destination=file', 'CO...
+    │    │        │           └ <django.core.servers.basehttp.ServerHandler object at 0x000002B7A88B3350>
+    │    │        └ <django.contrib.staticfiles.handlers.StaticFilesHandler object at 0x000002B7A843CF10>
+    │    └ None
+    └ <django.core.servers.basehttp.ServerHandler object at 0x000002B7A88B3350>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\staticfiles\handlers.py", line 80, in __call__
+    return self.application(environ, start_response)
+           │    │           │        └ <bound method BaseHandler.start_response of <django.core.servers.basehttp.ServerHandler object at 0x000002B7A88B3350>>
+           │    │           └ {'ALLUSERSPROFILE': 'C:\\ProgramData', 'APPDATA': 'C:\\Users\\bestware\\AppData\\Roaming', 'ASL.LOG': 'Destination=file', 'CO...
+           │    └ <django.core.handlers.wsgi.WSGIHandler object at 0x000002B7A7D8D650>
+           └ <django.contrib.staticfiles.handlers.StaticFilesHandler object at 0x000002B7A843CF10>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\wsgi.py", line 124, in __call__
+    response = self.get_response(request)
+               │    │            └ <WSGIRequest: POST '/signup/'>
+               │    └ <function BaseHandler.get_response at 0x000002B7A82242C0>
+               └ <django.core.handlers.wsgi.WSGIHandler object at 0x000002B7A7D8D650>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\base.py", line 140, in get_response
+    response = self._middleware_chain(request)
+               │    │                 └ <WSGIRequest: POST '/signup/'>
+               │    └ <function convert_exception_to_response.<locals>.inner at 0x000002B7A8433380>
+               └ <django.core.handlers.wsgi.WSGIHandler object at 0x000002B7A7D8D650>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <SecurityMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000002B7A835F100>
+               │           └ <SecurityMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <SessionMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000002B7A84332E0>
+               │           └ <SessionMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <CommonMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000002B7A8433100>
+               │           └ <CommonMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <CsrfViewMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000002B7A8432FC0>
+               │           └ <CsrfViewMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <AuthenticationMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000002B7A8433060>
+               │           └ <AuthenticationMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <MessageMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000002B7A826FF60>
+               │           └ <MessageMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <XFrameOptionsMiddleware get_response=BaseHandler._get_response>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function BaseHandler._get_response at 0x000002B7A826F920>
+               │           └ <XFrameOptionsMiddleware get_response=BaseHandler._get_response>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <bound method BaseHandler._get_response of <django.core.handlers.wsgi.WSGIHandler object at 0x000002B7A7D8D650>>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               │                │         │                └ {}
+               │                │         └ ()
+               │                └ <WSGIRequest: POST '/signup/'>
+               └ <function create_teacher at 0x000002B7A827E200>
+
+> File "C:\Users\bestware\Desktop\KMS_django\kmsd\views.py", line 47, in create_teacher
+    user = User.objects.create_user(
+           │    └ <django.db.models.manager.ManagerDescriptor object at 0x000002B7A8170D90>
+           └ <class 'django.contrib.auth.models.User'>
+
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\models.py", line 161, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+           │    │            │         │      │           └ {'is_staff': False, 'is_superuser': False}
+           │    │            │         │      └ "b'YmlzaH"
+           │    │            │         └ 'bishwesh@'
+           │    │            └ 'bishwesh'
+           │    └ <function UserManager._create_user at 0x000002B7A815DBC0>
+           └ <django.contrib.auth.models.UserManager object at 0x000002B7A8174A90>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\models.py", line 155, in _create_user
+    user.save(using=self._db)
+    │    │          │    └ None
+    │    │          └ <django.contrib.auth.models.UserManager object at 0x000002B7A8174A90>
+    │    └ <function AbstractBaseUser.save at 0x000002B7A8002480>
+    └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\base_user.py", line 76, in save
+    super().save(*args, **kwargs)
+                  │       └ {'using': None}
+                  └ ()
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+    │    └ <function Model.save_base at 0x000002B7A7CABE20>
+    └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+              │    └ <function Model._save_table at 0x000002B7A7CABF60>
+              └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+              │    └ <function Model._do_insert at 0x000002B7A7CB40E0>
+              └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+           │       └ <function QuerySet._insert at 0x000002B7A74393A0>
+           └ <django.db.models.manager.Manager object at 0x000002B7A89CD110>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+                   │    │               │      │       └ {'fields': [<django.db.models.fields.CharField: password>, <django.db.models.fields.DateTimeField: last_login>, <django.db.mo...
+                   │    │               │      └ ([<User: bishwesh>],)
+                   │    │               └ '_insert'
+                   │    └ <function BaseManager.get_queryset at 0x000002B7A7439080>
+                   └ <django.db.models.manager.Manager object at 0x000002B7A89CD110>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           │     │                  │                  └ [<django.db.models.fields.AutoField: id>]
+           │     │                  └ 'default'
+           │     └ <function Query.get_compiler at 0x000002B7A73B3560>
+           └ <django.db.models.sql.subqueries.InsertQuery object at 0x000002B7A89A9D10>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+    │      │       │    └ ('pbkdf2_sha256$600000$1TZ4ga7gKbGoBmgWf6vD9z$Z+bFppZWz8JyOCZ7mN/LxEldu57LuKD7WrJrLMGhSn8=', None, False, 'bishwesh', '', '',...
+    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+    │      └ <function CursorDebugWrapper.execute at 0x000002B7A735E840>
+    └ <django.db.backends.utils.CursorDebugWrapper object at 0x000002B7A89A8E10>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+                           │    └ ('pbkdf2_sha256$600000$1TZ4ga7gKbGoBmgWf6vD9z$Z+bFppZWz8JyOCZ7mN/LxEldu57LuKD7WrJrLMGhSn8=', None, False, 'bishwesh', '', '',...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           │    └ <function CursorWrapper._execute_with_wrappers at 0x000002B7A735E660>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x000002B7A89A8E10>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           │        │    │       │     └ {'connection': <DatabaseWrapper vendor='sqlite' alias='default'>, 'cursor': <django.db.backends.utils.CursorDebugWrapper obje...
+           │        │    │       └ False
+           │        │    └ ('pbkdf2_sha256$600000$1TZ4ga7gKbGoBmgWf6vD9z$Z+bFppZWz8JyOCZ7mN/LxEldu57LuKD7WrJrLMGhSn8=', None, False, 'bishwesh', '', '',...
+           │        └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           └ <bound method CursorWrapper._execute of <django.db.backends.utils.CursorDebugWrapper object at 0x000002B7A89A8E10>>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+         │    │  └ <django.db.utils.DatabaseErrorWrapper object at 0x000002B7A89CC350>
+         │    └ <DatabaseWrapper vendor='sqlite' alias='default'>
+         └ <django.db.backends.utils.CursorDebugWrapper object at 0x000002B7A89A8E10>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+          │            │              │               └ IntegrityError('UNIQUE constraint failed: auth_user.username')
+          │            │              └ <traceback object at 0x000002B7A89AA040>
+          │            └ <method 'with_traceback' of 'BaseException' objects>
+          └ IntegrityError('UNIQUE constraint failed: auth_user.username')
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           │    │      │       │    └ ('pbkdf2_sha256$600000$1TZ4ga7gKbGoBmgWf6vD9z$Z+bFppZWz8JyOCZ7mN/LxEldu57LuKD7WrJrLMGhSn8=', None, False, 'bishwesh', '', '',...
+           │    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           │    │      └ <function SQLiteCursorWrapper.execute at 0x000002B7A815C540>
+           │    └ <django.db.backends.sqlite3.base.SQLiteCursorWrapper object at 0x000002B7A89910A0>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x000002B7A89A8E10>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+                           │      └ ('pbkdf2_sha256$600000$1TZ4ga7gKbGoBmgWf6vD9z$Z+bFppZWz8JyOCZ7mN/LxEldu57LuKD7WrJrLMGhSn8=', None, False, 'bishwesh', '', '',...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+
+django.db.utils.IntegrityError: UNIQUE constraint failed: auth_user.username
+2024-02-17 16:30:04 +05:45| INFO | kmsd.views:45 | username='bishwesh'
+2024-02-17 16:30:04 +05:45| ERROR | kmsd.views:61 | {'message': 'User bishwesh already exists!'}
+Traceback (most recent call last):
+
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           │    │      │       │    └ ('pbkdf2_sha256$600000$Ym4eLRgEJ6ocel2bNHKnjI$QzdSsfZxZPU6c2VpUGygss6RLiSMSEMS1rdQgfD27YQ=', None, False, 'bishwesh', '', '',...
+           │    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           │    │      └ <function SQLiteCursorWrapper.execute at 0x00000253905BC540>
+           │    └ <django.db.backends.sqlite3.base.SQLiteCursorWrapper object at 0x0000025390DA20F0>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x0000025390DE5750>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+                           │      └ ('pbkdf2_sha256$600000$Ym4eLRgEJ6ocel2bNHKnjI$QzdSsfZxZPU6c2VpUGygss6RLiSMSEMS1rdQgfD27YQ=', None, False, 'bishwesh', '', '',...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+
+sqlite3.IntegrityError: UNIQUE constraint failed: auth_user.username
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 1002, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x000002538CF353A0>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 19960)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 1045, in _bootstrap_inner
+    self.run()
+    │    └ <function Thread.run at 0x000002538CF356C0>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 19960)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 982, in run
+    self._target(*self._args, **self._kwargs)
+    │    │        │    │        │    └ {}
+    │    │        │    │        └ <Thread(Thread-1 (process_request_thread), started daemon 19960)>
+    │    │        │    └ (<socket.socket fd=1340, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 56542)>, ('127.0.0.1', 565...
+    │    │        └ <Thread(Thread-1 (process_request_thread), started daemon 19960)>
+    │    └ <bound method ThreadingMixIn.process_request_thread of <django.core.servers.basehttp.WSGIServer object at 0x000002539087EAD0>>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 19960)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+    │    │              │        └ ('127.0.0.1', 56542)
+    │    │              └ <socket.socket fd=1340, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 56542)>
+    │    └ <function BaseServer.finish_request at 0x000002538F9732E0>
+    └ <django.core.servers.basehttp.WSGIServer object at 0x000002539087EAD0>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    │    │                   │        │               └ <django.core.servers.basehttp.WSGIServer object at 0x000002539087EAD0>
+    │    │                   │        └ ('127.0.0.1', 56542)
+    │    │                   └ <socket.socket fd=1340, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 56542)>
+    │    └ <class 'django.core.servers.basehttp.WSGIRequestHandler'>
+    └ <django.core.servers.basehttp.WSGIServer object at 0x000002539087EAD0>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 755, in __init__
+    self.handle()
+    │    └ <function WSGIRequestHandler.handle at 0x00000253906CF060>
+    └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x0000025390E0FF90>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\servers\basehttp.py", line 227, in handle
+    self.handle_one_request()
+    │    └ <function WSGIRequestHandler.handle_one_request at 0x00000253906CF100>
+    └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x0000025390E0FF90>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\servers\basehttp.py", line 252, in handle_one_request
+    handler.run(self.server.get_app())
+    │       │   │    │      └ <function WSGIServer.get_app at 0x00000253906CE0C0>
+    │       │   │    └ <django.core.servers.basehttp.WSGIServer object at 0x000002539087EAD0>
+    │       │   └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x0000025390E0FF90>
+    │       └ <function BaseHandler.run at 0x00000253906AA480>
+    └ <django.core.servers.basehttp.ServerHandler object at 0x0000025390E11050>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\wsgiref\handlers.py", line 137, in run
+    self.result = application(self.environ, self.start_response)
+    │    │        │           │    │        │    └ <function BaseHandler.start_response at 0x00000253906AA840>
+    │    │        │           │    │        └ <django.core.servers.basehttp.ServerHandler object at 0x0000025390E11050>
+    │    │        │           │    └ {'ALLUSERSPROFILE': 'C:\\ProgramData', 'APPDATA': 'C:\\Users\\bestware\\AppData\\Roaming', 'ASL.LOG': 'Destination=file', 'CO...
+    │    │        │           └ <django.core.servers.basehttp.ServerHandler object at 0x0000025390E11050>
+    │    │        └ <django.contrib.staticfiles.handlers.StaticFilesHandler object at 0x0000025390818E90>
+    │    └ None
+    └ <django.core.servers.basehttp.ServerHandler object at 0x0000025390E11050>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\staticfiles\handlers.py", line 80, in __call__
+    return self.application(environ, start_response)
+           │    │           │        └ <bound method BaseHandler.start_response of <django.core.servers.basehttp.ServerHandler object at 0x0000025390E11050>>
+           │    │           └ {'ALLUSERSPROFILE': 'C:\\ProgramData', 'APPDATA': 'C:\\Users\\bestware\\AppData\\Roaming', 'ASL.LOG': 'Destination=file', 'CO...
+           │    └ <django.core.handlers.wsgi.WSGIHandler object at 0x000002538F92BD10>
+           └ <django.contrib.staticfiles.handlers.StaticFilesHandler object at 0x0000025390818E90>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\wsgi.py", line 124, in __call__
+    response = self.get_response(request)
+               │    │            └ <WSGIRequest: POST '/signup/'>
+               │    └ <function BaseHandler.get_response at 0x00000253906842C0>
+               └ <django.core.handlers.wsgi.WSGIHandler object at 0x000002538F92BD10>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\base.py", line 140, in get_response
+    response = self._middleware_chain(request)
+               │    │                 └ <WSGIRequest: POST '/signup/'>
+               │    └ <function convert_exception_to_response.<locals>.inner at 0x00000253908A68E0>
+               └ <django.core.handlers.wsgi.WSGIHandler object at 0x000002538F92BD10>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <SecurityMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x00000253908A6840>
+               │           └ <SecurityMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <SessionMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x00000253908A67A0>
+               │           └ <SessionMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <CommonMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x00000253908A65C0>
+               │           └ <CommonMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <CsrfViewMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x00000253908A6480>
+               │           └ <CsrfViewMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <AuthenticationMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x00000253907BFBA0>
+               │           └ <AuthenticationMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <MessageMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x00000253906CF920>
+               │           └ <MessageMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <XFrameOptionsMiddleware get_response=BaseHandler._get_response>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function BaseHandler._get_response at 0x00000253907F3E20>
+               │           └ <XFrameOptionsMiddleware get_response=BaseHandler._get_response>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <bound method BaseHandler._get_response of <django.core.handlers.wsgi.WSGIHandler object at 0x000002538F92BD10>>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               │                │         │                └ {}
+               │                │         └ ()
+               │                └ <WSGIRequest: POST '/signup/'>
+               └ <function create_teacher at 0x00000253906DE200>
+
+> File "C:\Users\bestware\Desktop\KMS_django\kmsd\views.py", line 47, in create_teacher
+    user = User.objects.create_user(
+           │    └ <django.db.models.manager.ManagerDescriptor object at 0x00000253905D0E50>
+           └ <class 'django.contrib.auth.models.User'>
+
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\models.py", line 161, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+           │    │            │         │      │           └ {'is_staff': False, 'is_superuser': False}
+           │    │            │         │      └ "b'YmlzaH"
+           │    │            │         └ 'bishwesh@'
+           │    │            └ 'bishwesh'
+           │    └ <function UserManager._create_user at 0x00000253905BDBC0>
+           └ <django.contrib.auth.models.UserManager object at 0x00000253905D4C10>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\models.py", line 155, in _create_user
+    user.save(using=self._db)
+    │    │          │    └ None
+    │    │          └ <django.contrib.auth.models.UserManager object at 0x00000253905D4C10>
+    │    └ <function AbstractBaseUser.save at 0x0000025390462480>
+    └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\base_user.py", line 76, in save
+    super().save(*args, **kwargs)
+                  │       └ {'using': None}
+                  └ ()
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+    │    └ <function Model.save_base at 0x000002538F90BE20>
+    └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+              │    └ <function Model._save_table at 0x000002538F90BF60>
+              └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+              │    └ <function Model._do_insert at 0x000002538F9140E0>
+              └ <User: bishwesh>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+           │       └ <function QuerySet._insert at 0x000002538F8993A0>
+           └ <django.db.models.manager.Manager object at 0x0000025390E10090>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+                   │    │               │      │       └ {'fields': [<django.db.models.fields.CharField: password>, <django.db.models.fields.DateTimeField: last_login>, <django.db.mo...
+                   │    │               │      └ ([<User: bishwesh>],)
+                   │    │               └ '_insert'
+                   │    └ <function BaseManager.get_queryset at 0x000002538F899080>
+                   └ <django.db.models.manager.Manager object at 0x0000025390E10090>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           │     │                  │                  └ [<django.db.models.fields.AutoField: id>]
+           │     │                  └ 'default'
+           │     └ <function Query.get_compiler at 0x000002538F813560>
+           └ <django.db.models.sql.subqueries.InsertQuery object at 0x0000025390DE5E90>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+    │      │       │    └ ('pbkdf2_sha256$600000$Ym4eLRgEJ6ocel2bNHKnjI$QzdSsfZxZPU6c2VpUGygss6RLiSMSEMS1rdQgfD27YQ=', None, False, 'bishwesh', '', '',...
+    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+    │      └ <function CursorDebugWrapper.execute at 0x000002538F7C2840>
+    └ <django.db.backends.utils.CursorDebugWrapper object at 0x0000025390DE5750>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+                           │    └ ('pbkdf2_sha256$600000$Ym4eLRgEJ6ocel2bNHKnjI$QzdSsfZxZPU6c2VpUGygss6RLiSMSEMS1rdQgfD27YQ=', None, False, 'bishwesh', '', '',...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           │    └ <function CursorWrapper._execute_with_wrappers at 0x000002538F7C2660>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x0000025390DE5750>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           │        │    │       │     └ {'connection': <DatabaseWrapper vendor='sqlite' alias='default'>, 'cursor': <django.db.backends.utils.CursorDebugWrapper obje...
+           │        │    │       └ False
+           │        │    └ ('pbkdf2_sha256$600000$Ym4eLRgEJ6ocel2bNHKnjI$QzdSsfZxZPU6c2VpUGygss6RLiSMSEMS1rdQgfD27YQ=', None, False, 'bishwesh', '', '',...
+           │        └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           └ <bound method CursorWrapper._execute of <django.db.backends.utils.CursorDebugWrapper object at 0x0000025390DE5750>>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+         │    │  └ <django.db.utils.DatabaseErrorWrapper object at 0x0000025390DE4BD0>
+         │    └ <DatabaseWrapper vendor='sqlite' alias='default'>
+         └ <django.db.backends.utils.CursorDebugWrapper object at 0x0000025390DE5750>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+          │            │              │               └ IntegrityError('UNIQUE constraint failed: auth_user.username')
+          │            │              └ <traceback object at 0x0000025390DE4FC0>
+          │            └ <method 'with_traceback' of 'BaseException' objects>
+          └ IntegrityError('UNIQUE constraint failed: auth_user.username')
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           │    │      │       │    └ ('pbkdf2_sha256$600000$Ym4eLRgEJ6ocel2bNHKnjI$QzdSsfZxZPU6c2VpUGygss6RLiSMSEMS1rdQgfD27YQ=', None, False, 'bishwesh', '', '',...
+           │    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           │    │      └ <function SQLiteCursorWrapper.execute at 0x00000253905BC540>
+           │    └ <django.db.backends.sqlite3.base.SQLiteCursorWrapper object at 0x0000025390DA20F0>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x0000025390DE5750>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+                           │      └ ('pbkdf2_sha256$600000$Ym4eLRgEJ6ocel2bNHKnjI$QzdSsfZxZPU6c2VpUGygss6RLiSMSEMS1rdQgfD27YQ=', None, False, 'bishwesh', '', '',...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+
+django.db.utils.IntegrityError: UNIQUE constraint failed: auth_user.username
+2024-02-17 16:58:27 +05:45| INFO | kmsd.views:46 | username='bishwesh'
+2024-02-17 17:23:30 +05:45| INFO | kmsd.views:46 | username='bishwesh'
+2024-02-17 17:26:20 +05:45| INFO | kmsd.views:46 | username='kshitiz'
+2024-02-17 17:26:38 +05:45| INFO | kmsd.views:46 | username='kshitiz'
+2024-02-17 17:26:38 +05:45| ERROR | kmsd.views:60 | {'message': 'User kshitiz already exists!'}
+Traceback (most recent call last):
+
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           │    │      │       │    └ ('pbkdf2_sha256$600000$J3bTl0b4fR8TE3BvWeRJoA$DrFfGh5AaYwe5y7DEZGC3Vra0fCepVXW5WBjoOdeBic=', None, False, 'kshitiz', '', '', ...
+           │    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           │    │      └ <function SQLiteCursorWrapper.execute at 0x000001AE6D6FC540>
+           │    └ <django.db.backends.sqlite3.base.SQLiteCursorWrapper object at 0x000001AE6DF2D0A0>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x000001AE6DF63190>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+                           │      └ ('pbkdf2_sha256$600000$J3bTl0b4fR8TE3BvWeRJoA$DrFfGh5AaYwe5y7DEZGC3Vra0fCepVXW5WBjoOdeBic=', None, False, 'kshitiz', '', '', ...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+
+sqlite3.IntegrityError: UNIQUE constraint failed: auth_user.username
+
+
+The above exception was the direct cause of the following exception:
+
+
+Traceback (most recent call last):
+
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 1002, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x000001AE6A0253A0>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 2320)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 1045, in _bootstrap_inner
+    self.run()
+    │    └ <function Thread.run at 0x000001AE6A0256C0>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 2320)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\threading.py", line 982, in run
+    self._target(*self._args, **self._kwargs)
+    │    │        │    │        │    └ {}
+    │    │        │    │        └ <Thread(Thread-1 (process_request_thread), started daemon 2320)>
+    │    │        │    └ (<socket.socket fd=948, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 57921)>, ('127.0.0.1', 57921))
+    │    │        └ <Thread(Thread-1 (process_request_thread), started daemon 2320)>
+    │    └ <bound method ThreadingMixIn.process_request_thread of <django.core.servers.basehttp.WSGIServer object at 0x000001AE6D8891D0>>
+    └ <Thread(Thread-1 (process_request_thread), started daemon 2320)>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 691, in process_request_thread
+    self.finish_request(request, client_address)
+    │    │              │        └ ('127.0.0.1', 57921)
+    │    │              └ <socket.socket fd=948, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 57921)>
+    │    └ <function BaseServer.finish_request at 0x000001AE6CAB32E0>
+    └ <django.core.servers.basehttp.WSGIServer object at 0x000001AE6D8891D0>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+    │    │                   │        │               └ <django.core.servers.basehttp.WSGIServer object at 0x000001AE6D8891D0>
+    │    │                   │        └ ('127.0.0.1', 57921)
+    │    │                   └ <socket.socket fd=948, family=2, type=1, proto=0, laddr=('127.0.0.1', 8000), raddr=('127.0.0.1', 57921)>
+    │    └ <class 'django.core.servers.basehttp.WSGIRequestHandler'>
+    └ <django.core.servers.basehttp.WSGIServer object at 0x000001AE6D8891D0>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\socketserver.py", line 755, in __init__
+    self.handle()
+    │    └ <function WSGIRequestHandler.handle at 0x000001AE6D80F060>
+    └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x000001AE6DF55390>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\servers\basehttp.py", line 227, in handle
+    self.handle_one_request()
+    │    └ <function WSGIRequestHandler.handle_one_request at 0x000001AE6D80F100>
+    └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x000001AE6DF55390>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\servers\basehttp.py", line 252, in handle_one_request
+    handler.run(self.server.get_app())
+    │       │   │    │      └ <function WSGIServer.get_app at 0x000001AE6D80E0C0>
+    │       │   │    └ <django.core.servers.basehttp.WSGIServer object at 0x000001AE6D8891D0>
+    │       │   └ <django.core.servers.basehttp.WSGIRequestHandler object at 0x000001AE6DF55390>
+    │       └ <function BaseHandler.run at 0x000001AE6D7EA480>
+    └ <django.core.servers.basehttp.ServerHandler object at 0x000001AE6DF55AD0>
+  File "C:\Users\bestware\.conda\envs\kms\Lib\wsgiref\handlers.py", line 137, in run
+    self.result = application(self.environ, self.start_response)
+    │    │        │           │    │        │    └ <function BaseHandler.start_response at 0x000001AE6D7EA840>
+    │    │        │           │    │        └ <django.core.servers.basehttp.ServerHandler object at 0x000001AE6DF55AD0>
+    │    │        │           │    └ {'ALLUSERSPROFILE': 'C:\\ProgramData', 'APPDATA': 'C:\\Users\\bestware\\AppData\\Roaming', 'ASL.LOG': 'Destination=file', 'CO...
+    │    │        │           └ <django.core.servers.basehttp.ServerHandler object at 0x000001AE6DF55AD0>
+    │    │        └ <django.contrib.staticfiles.handlers.StaticFilesHandler object at 0x000001AE6D9CC510>
+    │    └ None
+    └ <django.core.servers.basehttp.ServerHandler object at 0x000001AE6DF55AD0>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\staticfiles\handlers.py", line 80, in __call__
+    return self.application(environ, start_response)
+           │    │           │        └ <bound method BaseHandler.start_response of <django.core.servers.basehttp.ServerHandler object at 0x000001AE6DF55AD0>>
+           │    │           └ {'ALLUSERSPROFILE': 'C:\\ProgramData', 'APPDATA': 'C:\\Users\\bestware\\AppData\\Roaming', 'ASL.LOG': 'Destination=file', 'CO...
+           │    └ <django.core.handlers.wsgi.WSGIHandler object at 0x000001AE6D9A39D0>
+           └ <django.contrib.staticfiles.handlers.StaticFilesHandler object at 0x000001AE6D9CC510>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\wsgi.py", line 124, in __call__
+    response = self.get_response(request)
+               │    │            └ <WSGIRequest: POST '/signup/'>
+               │    └ <function BaseHandler.get_response at 0x000001AE6D7C42C0>
+               └ <django.core.handlers.wsgi.WSGIHandler object at 0x000001AE6D9A39D0>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\base.py", line 140, in get_response
+    response = self._middleware_chain(request)
+               │    │                 └ <WSGIRequest: POST '/signup/'>
+               │    └ <function convert_exception_to_response.<locals>.inner at 0x000001AE6D9D2FC0>
+               └ <django.core.handlers.wsgi.WSGIHandler object at 0x000001AE6D9A39D0>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <SecurityMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000001AE6D9D2CA0>
+               │           └ <SecurityMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <SessionMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000001AE6D9D2C00>
+               │           └ <SessionMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <CommonMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000001AE6D9D2A20>
+               │           └ <CommonMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <CsrfViewMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000001AE6D9D25C0>
+               │           └ <CsrfViewMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <AuthenticationMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000001AE6D9D2980>
+               │           └ <AuthenticationMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <MessageMiddleware get_response=convert_exception_to_response.<locals>.inner>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function convert_exception_to_response.<locals>.inner at 0x000001AE6D9D0040>
+               │           └ <MessageMiddleware get_response=convert_exception_to_response.<locals>.inner>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <XFrameOptionsMiddleware get_response=BaseHandler._get_response>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\utils\deprecation.py", line 134, in __call__
+    response = response or self.get_response(request)
+               │           │    │            └ <WSGIRequest: POST '/signup/'>
+               │           │    └ <function BaseHandler._get_response at 0x000001AE6D80FA60>
+               │           └ <XFrameOptionsMiddleware get_response=BaseHandler._get_response>
+               └ None
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               │            └ <WSGIRequest: POST '/signup/'>
+               └ <bound method BaseHandler._get_response of <django.core.handlers.wsgi.WSGIHandler object at 0x000001AE6D9A39D0>>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               │                │         │                └ {}
+               │                │         └ ()
+               │                └ <WSGIRequest: POST '/signup/'>
+               └ <function create_teacher at 0x000001AE6D80F880>
+
+> File "C:\Users\bestware\Desktop\KMS_django\kmsd\views.py", line 48, in create_teacher
+    user = User.objects.create_user(
+           │    └ <django.db.models.manager.ManagerDescriptor object at 0x000001AE6D710E50>
+           └ <class 'django.contrib.auth.models.User'>
+
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\models.py", line 161, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+           │    │            │         │      │           └ {'is_staff': False, 'is_superuser': False}
+           │    │            │         │      └ "b'a3NoaX"
+           │    │            │         └ 'kshitiz'
+           │    │            └ 'kshitiz'
+           │    └ <function UserManager._create_user at 0x000001AE6D6FDBC0>
+           └ <django.contrib.auth.models.UserManager object at 0x000001AE6D714BD0>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\models.py", line 155, in _create_user
+    user.save(using=self._db)
+    │    │          │    └ None
+    │    │          └ <django.contrib.auth.models.UserManager object at 0x000001AE6D714BD0>
+    │    └ <function AbstractBaseUser.save at 0x000001AE6D5A2480>
+    └ <User: kshitiz>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\contrib\auth\base_user.py", line 76, in save
+    super().save(*args, **kwargs)
+                  │       └ {'using': None}
+                  └ ()
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+    │    └ <function Model.save_base at 0x000001AE6CA4BE20>
+    └ <User: kshitiz>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+              │    └ <function Model._save_table at 0x000001AE6CA4BF60>
+              └ <User: kshitiz>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+              │    └ <function Model._do_insert at 0x000001AE6CA540E0>
+              └ <User: kshitiz>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+           │       └ <function QuerySet._insert at 0x000001AE6C9D93A0>
+           └ <django.db.models.manager.Manager object at 0x000001AE6DF625D0>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+                   │    │               │      │       └ {'fields': [<django.db.models.fields.CharField: password>, <django.db.models.fields.DateTimeField: last_login>, <django.db.mo...
+                   │    │               │      └ ([<User: kshitiz>],)
+                   │    │               └ '_insert'
+                   │    └ <function BaseManager.get_queryset at 0x000001AE6C9D9080>
+                   └ <django.db.models.manager.Manager object at 0x000001AE6DF625D0>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           │     │                  │                  └ [<django.db.models.fields.AutoField: id>]
+           │     │                  └ 'default'
+           │     └ <function Query.get_compiler at 0x000001AE6C953560>
+           └ <django.db.models.sql.subqueries.InsertQuery object at 0x000001AE6DF62A10>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+    │      │       │    └ ('pbkdf2_sha256$600000$J3bTl0b4fR8TE3BvWeRJoA$DrFfGh5AaYwe5y7DEZGC3Vra0fCepVXW5WBjoOdeBic=', None, False, 'kshitiz', '', '', ...
+    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+    │      └ <function CursorDebugWrapper.execute at 0x000001AE6C8FE840>
+    └ <django.db.backends.utils.CursorDebugWrapper object at 0x000001AE6DF63190>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+                           │    └ ('pbkdf2_sha256$600000$J3bTl0b4fR8TE3BvWeRJoA$DrFfGh5AaYwe5y7DEZGC3Vra0fCepVXW5WBjoOdeBic=', None, False, 'kshitiz', '', '', ...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           │    └ <function CursorWrapper._execute_with_wrappers at 0x000001AE6C8FE660>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x000001AE6DF63190>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           │        │    │       │     └ {'connection': <DatabaseWrapper vendor='sqlite' alias='default'>, 'cursor': <django.db.backends.utils.CursorDebugWrapper obje...
+           │        │    │       └ False
+           │        │    └ ('pbkdf2_sha256$600000$J3bTl0b4fR8TE3BvWeRJoA$DrFfGh5AaYwe5y7DEZGC3Vra0fCepVXW5WBjoOdeBic=', None, False, 'kshitiz', '', '', ...
+           │        └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           └ <bound method CursorWrapper._execute of <django.db.backends.utils.CursorDebugWrapper object at 0x000001AE6DF63190>>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+         │    │  └ <django.db.utils.DatabaseErrorWrapper object at 0x000001AE6DF63110>
+         │    └ <DatabaseWrapper vendor='sqlite' alias='default'>
+         └ <django.db.backends.utils.CursorDebugWrapper object at 0x000001AE6DF63190>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+          │            │              │               └ IntegrityError('UNIQUE constraint failed: auth_user.username')
+          │            │              └ <traceback object at 0x000001AE6DF63B80>
+          │            └ <method 'with_traceback' of 'BaseException' objects>
+          └ IntegrityError('UNIQUE constraint failed: auth_user.username')
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           │    │      │       │    └ ('pbkdf2_sha256$600000$J3bTl0b4fR8TE3BvWeRJoA$DrFfGh5AaYwe5y7DEZGC3Vra0fCepVXW5WBjoOdeBic=', None, False, 'kshitiz', '', '', ...
+           │    │      │       └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+           │    │      └ <function SQLiteCursorWrapper.execute at 0x000001AE6D6FC540>
+           │    └ <django.db.backends.sqlite3.base.SQLiteCursorWrapper object at 0x000001AE6DF2D0A0>
+           └ <django.db.backends.utils.CursorDebugWrapper object at 0x000001AE6DF63190>
+  File "C:\Users\bestware\AppData\Roaming\Python\Python311\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+                           │      └ ('pbkdf2_sha256$600000$J3bTl0b4fR8TE3BvWeRJoA$DrFfGh5AaYwe5y7DEZGC3Vra0fCepVXW5WBjoOdeBic=', None, False, 'kshitiz', '', '', ...
+                           └ 'INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff...
+
+django.db.utils.IntegrityError: UNIQUE constraint failed: auth_user.username

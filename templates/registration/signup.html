@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% block body %}
+    <div class="container">
+        <div class="row justify-content-center mt-5">
+            <div class="col-md-6">
+                {% if error_message %}
+                    <div class="alert alert-danger" role="alert">
+                        {{ error_message }}
+                    </div>
+                {% endif %}
+                <form method="post" action="/signup/">
+                    {% csrf_token %}
+                    <div class="form-group">
+                        <input type="text" class="form-control" id="id_address" name="email"
+                               placeholder="Enter Email"/>
+                    </div>
+                    <div class="form-group">
+                        <select class="form-control" id="id_class" name="class">
+                            <option value="">Select Class</option>
+                            <option value="class1">Playgroup</option>
+                            <option value="class1">Nursery</option>
+                            <option value="class1">LKG</option>
+                            <option value="class2">UKG</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <select class="form-control" id="id_subject" name="subject">
+                            <option value="">Select Subject</option>
+                            <option value="subject1">Mathematics</option>
+                            <option value="subject2">English</option>
+                            <option value="subject3">Nap Time</option>
+                            <option value="subject3">Science</option>
+                            <option value="subject3">Sports</option>
+                        </select>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary btn-block">Create Teacher</button>
+                </form>
+            </div>
+        </div>
+    </div>
+{% endblock %}
