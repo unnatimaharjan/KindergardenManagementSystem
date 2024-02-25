@@ -59,6 +59,10 @@
                                          src="https://img.icons8.com/ios-glyphs/30/filled-trash.png"
                                          alt="filled-trash"/>
                                 </a>
+                                <a href="/profile/?id={{ id }}">
+                                    <img width="20" height="20" src="https://img.icons8.com/pastel-glyph/64/loop.png"
+                                         alt="loop"/>
+                                </a>
                             </td>
                         </tr>
                     {% endfor %}
@@ -78,6 +82,8 @@
                             <th>ID</th>
                             <th>First Name</th>
                             <th>Last Name</th>
+                            <th>Class</th>
+                            <th>Action</th>
                         </tr>
                         </thead>
                         <tbody>
@@ -86,6 +92,19 @@
                                 <td>{{ student.id }}</td>
                                 <td>{{ student.first_name }}</td>
                                 <td>{{ student.last_name }}</td>
+                                <td>{{ student.grade }}</td>
+                                <td>
+                                    <a href="/delete_student/?id={{ student.id }}">
+                                        <img width="20" height="20"
+                                             src="https://img.icons8.com/ios-glyphs/30/filled-trash.png"
+                                             alt="filled-trash"/>
+                                    </a>
+                                    <a href="/student_profile/?id={{ id }}">
+                                        <img width="20" height="20"
+                                             src="https://img.icons8.com/pastel-glyph/64/loop.png"
+                                             alt="loop"/>
+                                    </a>
+                                </td>
                             </tr>
                         {% endfor %}
                         </tbody>

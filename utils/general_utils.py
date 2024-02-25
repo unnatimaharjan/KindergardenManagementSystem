@@ -32,7 +32,7 @@ def get_all_teachers():
             last_name,
             email,
             subject,
-            _class,
+            grade,
             password
             FROM auth_user INNER JOIN kmsd_teacher AS teacher
             WHERE teacher.user_id == auth_user.id AND is_superuser == 0;
@@ -45,61 +45,81 @@ def get_all_teachers():
 
 def get_user_info(request):
     user = request.user
-    query = f"""
-        SELECT auth_user.id,
-            first_name,
-            last_name,
-            email,
-            subject,
-            _class
-            FROM auth_user INNER JOIN kmsd_teacher AS teacher
-            WHERE teacher.user_id == auth_user.id AND auth_user.username='{user}';
-    """
+    id = request.GET.get("id")
+    if id is None:
+        query = f"""
+            SELECT auth_user.id,
+                first_name,
+                last_name,
+                email,
+                subject,
+                grade
+                FROM auth_user INNER JOIN kmsd_teacher AS teacher
+                WHERE teacher.user_id == auth_user.id AND auth_user.username='{user}';
+        """
+    else:
+        query = f"""
+            SELECT auth_user.id,
+                first_name,
+                last_name,
+                email,
+                subject,
+                grade
+                FROM auth_user INNER JOIN kmsd_teacher AS teacher
+                WHERE teacher.user_id == auth_user.id AND auth_user.id='{id}';
+        """
     with connection.cursor() as cursor:
         cursor.execute(query)
         row = cursor.fetchone()
-        row = {
-            "first_name": row[1],
-            "last_name": row[2],
-            "email": row[3],
-            "subject": row[4],
-            "class": row[5],
-        }
-        return row
+        if row:
+            row = {
+                "id": row[0],
+                "first_name": row[1],
+                "last_name": row[2],
+                "email": row[3],
+                "subject": row[4],
+                "class": row[5],
+            }
+            return row
 
 
 def set_update_profile(request):
-    first_name, last_name, email, _class, subject = (
+    id, first_name, last_name, email, grade, subject = (
+        request.POST.get("id", None),
         request.POST.get("first_name", ""),
         request.POST.get("last_name", ""),
         request.POST.get("email", ""),
         request.POST.get("class", ""),
         request.POST.get("subject", ""),
     )
+
     query = f"""
     UPDATE auth_user
-    SET first_name = '{first_name}', last_name = '{last_name}', email = '{email}'
-    WHERE auth_user.username = '{request.user}'
+    SET first_name='{first_name}', last_name='{last_name}', email='{email}'
+    WHERE auth_user.id='{id}'
     RETURNING id
     """
+    print(query)
     with connection.cursor() as cursor:
         cursor.execute(query)
         id = cursor.fetchone()[0]
     query = f"""
         UPDATE kmsd_teacher
-        SET _class = '{_class}', subject='{subject}'
-        WHERE id={id}
+        SET grade = '{grade}', subject='{subject}'
+        WHERE user_id={id}
     """
+    print(query)
     with connection.cursor() as cursor:
         cursor.execute(query)
 
 
 def post_students(df):
-    data = df.to_dict(orient='records')
+    data = df.to_dict(orient="records")
     instances = [Student(**row) for row in data]
     Student.objects.bulk_create(instances)
 
 
+# b'dW5uYX
 def get_all_students():
     students = Student.objects.all()
     return students

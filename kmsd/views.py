@@ -6,10 +6,11 @@ from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.models import User
 from django.shortcuts import redirect, render
 
-from kmsd.models import Teacher
-from utils.general_utils import (generate_password, get_all_teachers, get_all_students,
-                                 get_user_info, set_update_profile,
-                                 validate_login_form, post_students)
+from kmsd.models import Student, Teacher, Attendance
+from utils.general_utils import (generate_password, get_all_students,
+                                 get_all_teachers, get_user_info,
+                                 post_students, set_update_profile,
+                                 validate_login_form)
 from utils.logging import logger
 
 
@@ -21,8 +22,9 @@ def home(request):
     students = get_all_students()
     user_info = request.session.get("user_info")
     return render(
-        request, "home.html",
-        {"user": user, "rows": rows, "user_info": user_info, "students": students}
+        request,
+        "home.html",
+        {"user": user, "rows": rows, "user_info": user_info, "students": students},
     )
 
 
@@ -45,7 +47,7 @@ def log_in(request):
 def create_teacher(request):
     if request.method == "GET":
         return render(request, "registration/signup.html")
-    email, _class, subject = (
+    email, grade, subject = (
         request.POST.get("email"),
         request.POST.get("class"),
         request.POST.get("subject"),
@@ -56,7 +58,7 @@ def create_teacher(request):
         user = User.objects.create_user(
             username=username, email=email, password=password
         )
-        teacher = Teacher(user_id=user.id, subject=subject, _class=_class)
+        teacher = Teacher(user_id=user.id, subject=subject, grade=grade)
         teacher.save()
         context = {
             "message": "User Created Successfully! Please store this safely",
@@ -81,17 +83,23 @@ def delete_teacher(request):
         user_id = request.GET.get("id")
         user = User.objects.get(pk=user_id)
         user.delete()
-    rows = get_all_teachers()
-    return render(request, "home.html", {"rows": rows})
+    return redirect("/")
+
+
+def delete_student(request):
+    if request.method == "GET":
+        student_id = request.GET.get("id")
+        student = Student.objects.get(pk=student_id)
+        student.delete()
+    return redirect("/")
 
 
 def get_profile(request):
-    if request.method == "GET":
-        profile = get_user_info(request)
-        return render(request, "profile.html", {"profile": profile})
     if request.method == "POST":
         set_update_profile(request)
         return redirect("/")
+    profile = get_user_info(request)
+    return render(request, "profile.html", {"profile": profile})
 
 
 def add_students(request):
@@ -101,3 +109,8 @@ def add_students(request):
     df = pandas.read_csv(file)
     post_students(df)
     return redirect("/")
+
+
+def student_profile(request):
+    attendances = Attendance.objects.select_related('student').all()
+    return render(request, 'student_profile.html', {'attendances': attendances})

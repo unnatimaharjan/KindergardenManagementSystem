@@ -11,5 +11,7 @@ urlpatterns = [
     path("delete_user/", views.delete_teacher, name="delete"),
     path("profile/", views.get_profile, name="profile"),
     path("add_students/", views.add_students, name="add_students"),
+    path("delete_student/", views.delete_student, name="delete_student"),
+    path("student_profile/", views.student_profile, name="student_profile")
 ]
 app_name = "kmsd"
