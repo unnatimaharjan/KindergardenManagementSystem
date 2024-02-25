@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block body %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <h2 class="mt-4">Upload Students Data</h2>
+            <form method="POST" action="/add_students/" enctype="multipart/form-data" id="uploadForm">
+                {% csrf_token %}
+                <div class="input-group mb-3">
+                    <div class="custom-file">
+                        <input type="file" class="custom-file-input" id="upload" name="file" accept=".csv, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/vnd.ms-excel" onchange="updateFileName(this)">
+                        <label class="custom-file-label" for="upload" id="filenameLabel">Choose file</label>
+                    </div>
+                    <div class="input-group-append">
+                        <button class="btn btn-primary" type="submit">Upload</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    // JavaScript to display filename after selecting a file
+    function updateFileName(input) {
+        var filename = input.files[0].name;
+        document.getElementById('filenameLabel').innerText = filename;
+    }
+</script>
+{% endblock %}

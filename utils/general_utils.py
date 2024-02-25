@@ -3,6 +3,8 @@ import time
 
 from django.db import connection
 
+from kmsd.models import Student
+
 
 def validate_login_form(username, password):
     if not username and not password:
@@ -90,3 +92,14 @@ def set_update_profile(request):
     """
     with connection.cursor() as cursor:
         cursor.execute(query)
+
+
+def post_students(df):
+    data = df.to_dict(orient='records')
+    instances = [Student(**row) for row in data]
+    Student.objects.bulk_create(instances)
+
+
+def get_all_students():
+    students = Student.objects.all()
+    return students

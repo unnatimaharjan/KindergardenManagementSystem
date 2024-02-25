@@ -10,5 +10,6 @@ urlpatterns = [
     path("signup/", views.create_teacher, name="signup"),
     path("delete_user/", views.delete_teacher, name="delete"),
     path("profile/", views.get_profile, name="profile"),
+    path("add_students/", views.add_students, name="add_students"),
 ]
 app_name = "kmsd"

@@ -1,14 +1,15 @@
 import re
 
 import django.db.utils
+import pandas
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.models import User
 from django.shortcuts import redirect, render
 
 from kmsd.models import Teacher
-from utils.general_utils import (generate_password, get_all_teachers,
+from utils.general_utils import (generate_password, get_all_teachers, get_all_students,
                                  get_user_info, set_update_profile,
-                                 validate_login_form)
+                                 validate_login_form, post_students)
 from utils.logging import logger
 
 
@@ -17,9 +18,11 @@ def home(request):
     if not user.is_authenticated:
         return render(request, "registration/login.html")
     rows = get_all_teachers()
+    students = get_all_students()
     user_info = request.session.get("user_info")
     return render(
-        request, "home.html", {"user": user, "rows": rows, "user_info": user_info}
+        request, "home.html",
+        {"user": user, "rows": rows, "user_info": user_info, "students": students}
     )
 
 
@@ -88,5 +91,13 @@ def get_profile(request):
         return render(request, "profile.html", {"profile": profile})
     if request.method == "POST":
         set_update_profile(request)
-        # profile = get_user_info(request)
         return redirect("/")
+
+
+def add_students(request):
+    if request.method == "GET":
+        return render(request, "upload.html")
+    file = request.FILES.get("file")
+    df = pandas.read_csv(file)
+    post_students(df)
+    return redirect("/")
