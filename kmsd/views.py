@@ -6,17 +6,21 @@ from django.contrib.auth.models import User
 from django.shortcuts import redirect, render
 
 from kmsd.models import Teacher
-from utils.general_utils import generate_password, get_all_teachers, validate_login_form
+from utils.general_utils import (generate_password, get_all_teachers,
+                                 get_user_info, set_update_profile,
+                                 validate_login_form)
 from utils.logging import logger
 
 
-# Create your views here.
 def home(request):
     user = request.user
     if not user.is_authenticated:
         return render(request, "registration/login.html")
     rows = get_all_teachers()
-    return render(request, "home.html", {"user": user, "rows": rows})
+    user_info = request.session.get("user_info")
+    return render(
+        request, "home.html", {"user": user, "rows": rows, "user_info": user_info}
+    )
 
 
 def log_in(request):
@@ -32,17 +36,18 @@ def log_in(request):
         context = {"error_message": "Invalid username or password"}
         return render(request, login_template, context)
     login(request, user)
-    rows = get_all_teachers()
-    return render(request, "home.html", {"rows": rows})
+    return redirect("/")
 
 
 def create_teacher(request):
     if request.method == "GET":
         return render(request, "registration/signup.html")
-    email = request.POST.get("email")
-    _class = request.POST.get("class")
-    subject = request.POST.get("subject")
-    username = re.sub("[^a-zA-Z0-9]+", "", email.split("@", 1)[0])
+    email, _class, subject = (
+        request.POST.get("email"),
+        request.POST.get("class"),
+        request.POST.get("subject"),
+    )
+    username = re.sub(r"[^a-zA-Z0-9]+", "", email.split("@", 1)[0])
     password = generate_password(username)
     try:
         user = User.objects.create_user(
@@ -55,11 +60,12 @@ def create_teacher(request):
             "username": username,
             "password": password,
         }
-        return redirect("kmsd:home", context=context)
+        request.session["user_info"] = context
+        return redirect("/")
     except django.db.utils.IntegrityError:
         context = {"message": f"User {username} already exists!"}
         logger.exception(context)
-    return redirect("kmsd:home", context=context)
+    return redirect("/")
 
 
 def log_out(request):
@@ -74,3 +80,13 @@ def delete_teacher(request):
         user.delete()
     rows = get_all_teachers()
     return render(request, "home.html", {"rows": rows})
+
+
+def get_profile(request):
+    if request.method == "GET":
+        profile = get_user_info(request)
+        return render(request, "profile.html", {"profile": profile})
+    if request.method == "POST":
+        set_update_profile(request)
+        # profile = get_user_info(request)
+        return redirect("/")
