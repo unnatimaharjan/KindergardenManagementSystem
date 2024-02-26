@@ -3,7 +3,7 @@ import time
 
 from django.db import connection
 
-from kmsd.models import Student
+from kmsd.models import Student, Attendance
 
 
 def validate_login_form(username, password):
@@ -115,8 +115,11 @@ def set_update_profile(request):
 
 def post_students(df):
     data = df.to_dict(orient="records")
-    instances = [Student(**row) for row in data]
-    Student.objects.bulk_create(instances)
+    for row in data:
+        student = Student.objects.create(**row)
+        student.save()
+        attendance = Attendance(student=student, present_days=0, grade=0.0)
+        attendance.save()
 
 
 # b'dW5uYX
