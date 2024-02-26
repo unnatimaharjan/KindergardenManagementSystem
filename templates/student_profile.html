@@ -1,38 +1,39 @@
 {% extends "base.html" %}
 {% block body %}
     <div class="container mt-5">
-        <h2>Student Attendance</h2>
-        <table class="table">
-            <thead>
-            <tr>
-                <th>ID</th>
-                <th>First Name</th>
-                <th>Last Name</th>
-                <th>Grade</th>
-                <th>Present Days</th>
-            </tr>
-            </thead>
-            <tbody>
-            {% for attendance in attendances %}
-                <tr>
-                    <td>{{ attendance.id }}</td>
-                    <td>{{ attendance.student.first_name }}</td>
-                    <td>{{ attendance.student.last_name }}</td>
-                    <td>{{ attendance.grade }}</td>
-                    <td>{{ attendance.present_days }}</td>
-                </tr>
-            {% endfor %}
-            </tbody>
-        </table>
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
+                <form action="/student_profile/" method="POST">
+                    {% csrf_token %}
+                    <div class="form-group">
+                        <input type="text" class="form-control" id="ID" name="attendance_id"
+                               value="{{ attendance.id }}" readonly>
+                    </div>
+                    <div class="form-group">
+                        <input type="text" class="form-control" id="ID" name="student_id"
+                               value="{{ attendance.student_id }}" readonly>
+                    </div>
+                    <div class="form-group">
+                        <input type="text" class="form-control" id="firstName" name="first_name"
+                               placeholder="Enter First Name" value="{{ attendance.student.first_name }}" readonly>
+                    </div>
+                    <div class="form-group">
+                        <input type="text" class="form-control" id="lastName" name="last_name"
+                               placeholder="Enter Last Name" value="{{ attendance.student.last_name }}" readonly>
+                    </div>
+                    <div class="form-group">
+                        <label>Grade</label>
+                        <input type="number" class="form-control" id="email" name="grade"
+                               placeholder="Grade" value={{ attendance.grade }}>
+                    </div>
+                    <div class="form-group">
+                        <label>Present Days</label>
+                        <input type="number" class="form-control" id="email" name="present_days"
+                               placeholder="Enter Email" value={{ attendance.present_days }}>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+            </div>
+        </div>
     </div>
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <script>
-        $(document).ready(function () {
-            $('.datetime').each(function () {
-                var milliseconds = parseInt($(this).text());
-                var date = new Date(milliseconds);
-                $(this).text(date.toLocaleString());
-            });
-        });
-    </script>
 {% endblock %}

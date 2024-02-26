@@ -112,5 +112,15 @@ def add_students(request):
 
 
 def student_profile(request):
-    attendances = Attendance.objects.select_related('student').all()
-    return render(request, 'student_profile.html', {'attendances': attendances})
+    if request.method == "GET":
+        student_id = request.GET.get("id")
+        attendance = Attendance.objects.select_related('student').get(student_id=student_id)
+        return render(request, 'student_profile.html', {'attendance': attendance})
+
+    if request.method == "POST":
+        attendance_id = request.POST.get("attendance_id")
+        attendance = Attendance.objects.get(id=attendance_id)
+        attendance.grade = request.POST.get("grade")
+        attendance.present_days = request.POST.get("present_days")
+        attendance.save()
+        return redirect("/")

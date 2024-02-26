@@ -17,4 +17,4 @@ class Student(models.Model):
 class Attendance(models.Model):
     student = models.ForeignKey(Student, on_delete=models.CASCADE)
     present_days = models.IntegerField(default=0)
-    grade = models.IntegerField(default=0)
+    grade = models.FloatField(default=0.00)
